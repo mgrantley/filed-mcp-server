@@ -1,0 +1,1756 @@
+{
+  "company_name": "Anduril Industries",
+  "states_searched": [
+    "AK",
+    "CO",
+    "CT",
+    "DC",
+    "FL",
+    "IA",
+    "NY",
+    "OR",
+    "PA"
+  ],
+  "state_registrations": [
+    {
+      "id": "CT:001eq000001qfksAAA",
+      "name": "ANDURIL INDUSTRIES, INC",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Active",
+      "formedDate": "2024-09-03",
+      "registeredAgent": null,
+      "principalAddress": "1400 ANDURIL, COSTA MESA, CA, 92626",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:16.607Z"
+    },
+    {
+      "id": "DC:C00006389672",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "2019-09-16",
+      "registeredAgent": {
+        "name": "C T CORPORATION SYSTEM",
+        "address": null
+      },
+      "principalAddress": "1400 Anduril, Costa Mesa, CA, 92626",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:19.656Z"
+    },
+    {
+      "id": "IA:800354",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "IA",
+      "type": "FOREIGN PROFIT",
+      "status": "N/A",
+      "formedDate": "2024-09-03",
+      "registeredAgent": null,
+      "principalAddress": "COSTA MESA, CA, 92626",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:23.585Z"
+    },
+    {
+      "id": "NY:7404999",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2024-08-23",
+      "registeredAgent": {
+        "name": "C T CORPORATION SYSTEM",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:18.858Z"
+    },
+    {
+      "id": "OR:230619991",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2024-09-05",
+      "registeredAgent": null,
+      "principalAddress": "780 COMMERCIAL ST SE STE 100, SALEM, OR, 97301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:17.923Z"
+    },
+    {
+      "id": "OR:230619991",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2024-09-05",
+      "registeredAgent": null,
+      "principalAddress": "1400 ANDURIL, COSTA MESA, CA, 92626",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:17.923Z"
+    },
+    {
+      "id": "OR:230619991",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2024-09-05",
+      "registeredAgent": null,
+      "principalAddress": "1400 ANDURIL, COSTA MESA, CA, 92626",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:17.923Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    },
+    {
+      "id": "PA:0013937315",
+      "name": "ANDURIL INDUSTRIES, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2024-08-23",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:21.480Z"
+    }
+  ],
+  "officers_across_states": [],
+  "sec_filings": [
+    {
+      "accessionNumber": "0001867090-26-000014",
+      "formType": "NPORT-P",
+      "fileDate": "2026-03-02",
+      "periodEnding": "2025-12-31",
+      "filer": "Fundrise Innovation Fund, LLC  (CIK 0001867090)",
+      "cik": "0001867090",
+      "sicCode": null,
+      "description": "SCHEDULE OF INVESTMENTS",
+      "businessLocation": "Washington, DC",
+      "businessState": "DC",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1867090/000186709026000014/0001867090-26-000014-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-26-081254",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-27",
+      "periodEnding": "2025-12-31",
+      "filer": "StepStone Private Venture & Growth Fund  (CIK 0001918642)",
+      "cik": "0001918642",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Charlotte, NC",
+      "businessState": "NC",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1918642/000119312526081254/0001193125-26-081254-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001326",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "VARIABLE INSURANCE PRODUCTS FUND  (CIK 0000356494)",
+      "cik": "0000356494",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/356494/000003540226001326/0000035402-26-001326-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001225",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "FIDELITY HASTINGS STREET TRUST  (CIK 0000035348)",
+      "cik": "0000035348",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/35348/000003540226001225/0000035402-26-001225-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001217",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "FIDELITY HASTINGS STREET TRUST  (CIK 0000035348)",
+      "cik": "0000035348",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/35348/000003540226001217/0000035402-26-001217-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001320",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "VARIABLE INSURANCE PRODUCTS FUND III  (CIK 0000927384)",
+      "cik": "0000927384",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/927384/000003540226001320/0000035402-26-001320-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001295",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "VARIABLE INSURANCE PRODUCTS FUND III  (CIK 0000927384)",
+      "cik": "0000927384",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/927384/000003540226001295/0000035402-26-001295-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001129",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "FIDELITY DESTINY PORTFOLIOS  (CIK 0000035331)",
+      "cik": "0000035331",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/35331/000003540226001129/0000035402-26-001129-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-001129",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "FIDELITY DESTINY PORTFOLIOS  (CIK 0000035331)",
+      "cik": "0000035331",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/35331/000003540226001129/0000035402-26-001129-index.htm"
+    },
+    {
+      "accessionNumber": "0001410368-26-016645",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "Coatue Innovative Strategies Fund  (CIK 0002044519)",
+      "cik": "0002044519",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2044519/000141036826016645/0001410368-26-016645-index.htm"
+    },
+    {
+      "accessionNumber": "0001907982-26-000016",
+      "formType": "8-K",
+      "fileDate": "2026-01-27",
+      "periodEnding": "2026-01-27",
+      "filer": "D-Wave Quantum Inc.  (QBTS)  (CIK 0001907982)",
+      "cik": "0001907982",
+      "sicCode": "7374",
+      "description": "EX-99.2",
+      "businessLocation": "Palo Alto, CA",
+      "businessState": "CA",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000016/0001907982-26-000016-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000416",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY ADVISOR SERIES I  (CIK 0000722574)",
+      "cik": "0000722574",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/722574/000003540226000416/0000035402-26-000416-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000418",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY ADVISOR SERIES I  (CIK 0000722574)",
+      "cik": "0000722574",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/722574/000003540226000418/0000035402-26-000418-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000442",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY MT VERNON STREET TRUST  (CIK 0000707823)",
+      "cik": "0000707823",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707823/000003540226000442/0000035402-26-000442-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000410",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY ADVISOR SERIES I  (CIK 0000722574)",
+      "cik": "0000722574",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/722574/000003540226000410/0000035402-26-000410-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000458",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY MT VERNON STREET TRUST  (CIK 0000707823)",
+      "cik": "0000707823",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707823/000003540226000458/0000035402-26-000458-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000457",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY PURITAN TRUST  (CIK 0000081205)",
+      "cik": "0000081205",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/81205/000003540226000457/0000035402-26-000457-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000476",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY PURITAN TRUST  (CIK 0000081205)",
+      "cik": "0000081205",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/81205/000003540226000476/0000035402-26-000476-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000402",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY ADVISOR SERIES I  (CIK 0000722574)",
+      "cik": "0000722574",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/722574/000003540226000402/0000035402-26-000402-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000476",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY PURITAN TRUST  (CIK 0000081205)",
+      "cik": "0000081205",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/81205/000003540226000476/0000035402-26-000476-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000457",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY PURITAN TRUST  (CIK 0000081205)",
+      "cik": "0000081205",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/81205/000003540226000457/0000035402-26-000457-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-26-000435",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-23",
+      "periodEnding": "2025-11-30",
+      "filer": "FIDELITY MT VERNON STREET TRUST  (CIK 0000707823)",
+      "cik": "0000707823",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/707823/000003540226000435/0000035402-26-000435-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-25-002967",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-23",
+      "periodEnding": "2025-10-31",
+      "filer": "FIDELITY SECURITIES FUND  (CIK 0000754510)",
+      "cik": "0000754510",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/754510/000003540225002967/0000035402-25-002967-index.htm"
+    },
+    {
+      "accessionNumber": "0002071691-25-009354",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-23",
+      "periodEnding": "2025-10-31",
+      "filer": "FRANKLIN STRATEGIC SERIES  (CIK 0000872625)",
+      "cik": "0000872625",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "San Mateo, CA",
+      "businessState": "CA",
+      "incorporationState": "FL",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/872625/000207169125009354/0002071691-25-009354-index.htm"
+    },
+    {
+      "accessionNumber": "0000035402-25-002967",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-23",
+      "periodEnding": "2025-10-31",
+      "filer": "FIDELITY SECURITIES FUND  (CIK 0000754510)",
+      "cik": "0000754510",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Boston, MA",
+      "businessState": "MA",
+      "incorporationState": "MA",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/754510/000003540225002967/0000035402-25-002967-index.htm"
+    }
+  ],
+  "federal_contracts": [
+    {
+      "awardId": "70B02C26F00000035",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 362974500,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Customs and Border Protection",
+      "startDate": "2025-12-25",
+      "endDate": "2026-12-24",
+      "awardType": null,
+      "description": "PURCHASE OF TOWERS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "M6785426F1012",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 23995370,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2025-12-11",
+      "endDate": "2027-04-30",
+      "awardType": null,
+      "description": "LOITERING MUNITION -ALL UP ROUNDS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240226FE011",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 1313523.37,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-12-10",
+      "endDate": "2026-12-09",
+      "awardType": null,
+      "description": "SIP TO126 MARITIME RADAR OPTIMIZATION",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862926FB010",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 53454.4,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2025-12-04",
+      "endDate": "2025-12-09",
+      "awardType": null,
+      "description": "ICS EVENT SUPPORT AND TRAVEL TO CANNON AFB FOR ANDURIL EVENT SUPPORT OF A600M LIVE FIRE TEST 6 DEC 2025. TRAVEL SHALL OCCUR ON 4 DEC 2025 FOR ANDURIL TO BE IN PLACE TO BEGIN EVENT ON 5 DEC 2025. A TOTAL OF 3X FSRS. ONE AT NTTR AND TWO AT CANNON AFB.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862926FB009",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 502949.2,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2025-12-03",
+      "endDate": "2026-05-26",
+      "awardType": null,
+      "description": "AGILE-LAUNCH TACTICALLY-INTEGRATED UNMANNED SYSTEM (ALTIUS) 600",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240226FE007",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 3393125.01,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-11-26",
+      "endDate": "2026-11-25",
+      "awardType": null,
+      "description": "SIP TO 123 HEIMDALL SUSTAINMENT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240226FE009",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 16981160,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-11-24",
+      "endDate": "2026-06-22",
+      "awardType": null,
+      "description": "SIP TO119 GHOSTSHIELD",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "89233126FNA400749",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 11214774,
+      "awardingAgency": "Department of Energy",
+      "awardingSubAgency": "Department of Energy",
+      "startDate": "2025-11-18",
+      "endDate": "2026-11-17",
+      "awardType": null,
+      "description": "PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WITH OPTIONS. Y12 SITE. PROVIDING A COUNTER UNCREWED AIRCRAFT SYSTEM (CUAS) PLATFORM FOR THE NATIONAL NUCLEAR SECURITY ADMINISTRATION",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "89233126FNA400748",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 13864074.4,
+      "awardingAgency": "Department of Energy",
+      "awardingSubAgency": "Department of Energy",
+      "startDate": "2025-11-18",
+      "endDate": "2026-11-17",
+      "awardType": null,
+      "description": "PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WITH OPTIONS. PANTEX SITE. PROVIDING A COUNTER UNCREWED AIRCRAFT SYSTEM (CUAS) PLATFORM FOR THE NATIONAL NUCLEAR SECURITY ADMINISTRAT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240226FE002",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 12846190.82,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-11-07",
+      "endDate": "2026-07-31",
+      "awardType": null,
+      "description": "SIP TO 124 - MODULAR MOBILE KINETIC DEFEAT CAPABILITY",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "M6785426F0020",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 56804.31,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2025-10-30",
+      "endDate": "2026-10-29",
+      "awardType": null,
+      "description": "SITE SURVEY/TRAVEL FOR K-BAY I-CSUAS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "M6785426F0019",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 56804.31,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2025-10-30",
+      "endDate": "2026-10-29",
+      "awardType": null,
+      "description": "SITE SURVEY AND TRAVEL/ODCS FOR I-CSUAS AT CAMP SMITH",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "M6785426F0023",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 1152957,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2025-10-25",
+      "endDate": "2026-10-24",
+      "awardType": null,
+      "description": "PROGRAM MANAGEMENT AND SUPPORT FOR CES UNDER PM GBAD",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862926FB004",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 1708441,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2025-10-24",
+      "endDate": "2028-10-24",
+      "awardType": null,
+      "description": "AGILE-LAUNCH TACTICALLY-INTEGRATED UNMANNED SYSTEM (ALTIUS) 600",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240226FE001",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 789178,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-10-21",
+      "endDate": "2026-05-19",
+      "awardType": null,
+      "description": "COUNTER UNMANNED SYSTEMS (CUXS) SYSTEMS INTEGRATION PARTNER (SIP) PULSAR-LITE TEST HARDWARE, TASK ORDER 125",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE034",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 3764460.66,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-30",
+      "endDate": "2026-11-30",
+      "awardType": null,
+      "description": "PHASE II INTEGRATION OF ROADRUNNER INTO THE FAAD C2 ARCHITECTURE.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE033",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 8481563,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-30",
+      "endDate": "2027-04-28",
+      "awardType": null,
+      "description": "SIP TO 122 - NORTHCOM HARDWARE",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA228025F0035",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 19425000,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2025-09-30",
+      "endDate": "2026-09-29",
+      "awardType": null,
+      "description": "FALCON INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE032",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 5042244.27,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-29",
+      "endDate": "2026-09-28",
+      "awardType": null,
+      "description": "SIP TO 120 - RED TEAM SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "M6785425F0234",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 320000,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2025-09-29",
+      "endDate": "2026-01-26",
+      "awardType": null,
+      "description": "SPARE PARTS PACKAGE",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA882025FB003",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 4849988,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2025-09-25",
+      "endDate": "2025-12-18",
+      "awardType": null,
+      "description": "NEW TASK ORDER INDEFINITE DELIVERY INDEFINITE QUANTITY, 90 DAY TEST BED FOR SUPPORT ACTIVITIES.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE031",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 13278763.7,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-22",
+      "endDate": "2026-04-20",
+      "awardType": null,
+      "description": "TO 116 - HEIMDALL PROCUREMENT AND CL BUY OUT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE025",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 2592131.05,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-22",
+      "endDate": "2026-09-21",
+      "awardType": null,
+      "description": "SIP TO 111 FSR AND TRAINING SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "70B02C25F00000926",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 50734262.78,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Customs and Border Protection",
+      "startDate": "2025-09-19",
+      "endDate": "2026-09-18",
+      "awardType": null,
+      "description": "AWARD",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "H9240225FE029",
+      "recipientName": "ANDURIL INDUSTRIES, INC.",
+      "amount": 268622.88,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "U.S. Special Operations Command",
+      "startDate": "2025-09-16",
+      "endDate": "2025-12-15",
+      "awardType": null,
+      "description": "SIP TO 121 - GENERATORS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    }
+  ],
+  "lobbying_activity": [
+    {
+      "filingId": "e373758d-f313-4e6e-881a-30cd6805e72e",
+      "filingDate": "2026-01-20T19:44:15-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 460000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (P.L. 119-60) including House and Senate versions of the FY2026 Intelligence Authorization Act (H.R. 5167 / S. 2342) and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), and related policy and funding legislation (no bill numbers); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (P.L. 119-60) including the House and Senate versions of the FY2026 Intelligence Authorization Act (H.R. 5167 / S. 2342) and related policy and funding legislation (no bill numbers); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence in the House and Senate versions of the FY2026 Energy and Water Development and Related Agencies Appropriations Act (H.R. 4553 / S. 3293) and related policy and funding legislation (no bill number); and One Big Beautiful Bill Act (P.L. 119-21)."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Issues related to funding, policies and regulations regarding the ITAR and EAR and Foreign Military Sales/Financing (no bill)."
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, and acquisition policy in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of FY2026 National Defense Authorization Act (P.L. 119-60) including the House and Senate versions of the FY2026 Intelligence Authorization Act (H.R. 5167 / S. 2342)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/e373758d-f313-4e6e-881a-30cd6805e72e/print/"
+    },
+    {
+      "filingId": "de7f527f-1c31-41bb-a5d4-bb2311914093",
+      "filingDate": "2026-01-20T12:57:02-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policy issues related to border technology and Autonomous Surveillance Towers program of record. FY 2026 Appropriations. H.R. 4213 - Department of Homeland Security Appropriations Act, 2026; and Senate Appropriations bill (no bill number)."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "PL 119-21."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/de7f527f-1c31-41bb-a5d4-bb2311914093/print/"
+    },
+    {
+      "filingId": "f56d8f72-4095-4112-b28f-4fd6001ae71c",
+      "filingDate": "2026-01-20T09:19:32-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, rocket motors, munitions, uncrewed aircraft, and space in the House and Senate versions of the FY26 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, rocket motors, munitions, uncrewed aircraft, and space at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/f56d8f72-4095-4112-b28f-4fd6001ae71c/print/"
+    },
+    {
+      "filingId": "affb9e56-9a0a-41c4-b2da-311e29eff1af",
+      "filingDate": "2026-01-07T13:55:03-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act; Monitor implementation of H.R. 1, the One Big Beautiful Bill Act"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act; Monitor implementation of H.R. 1, the One Big Beautiful Bill Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/affb9e56-9a0a-41c4-b2da-311e29eff1af/print/"
+    },
+    {
+      "filingId": "c102da3e-5b0a-4795-b91d-b485a5d3e011",
+      "filingDate": "2025-10-20T20:41:25-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 500000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (H.R. 3838 / S. 2296), related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no House bill number / S. 2342)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), and related policy and funding legislation (no bill numbers); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (H.R. 3838 / S. 2296), and related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no House bill number / S. 2342); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence in the House and Senate versions of the FY2026 Energy and Water Development and Related Agencies Appropriations Act (H.R. 4553 / no Senate bill number) and related policy and funding legislation."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Issues related to funding, policies and regulations regarding the ITAR and EAR and Foreign Military Sales/Financing (no bill)."
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, and acquisition policy in the Department of Defense Appropriations Act, 2026 (H.R. 4016 / S. 2572), the House and Senate versions of FY2026 National Defense Authorization Act (H.R. 3838 / S. 2296), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no House bill number / S. 2342)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/c102da3e-5b0a-4795-b91d-b485a5d3e011/print/"
+    },
+    {
+      "filingId": "a097259c-983b-4f0a-920f-49e540ae4440",
+      "filingDate": "2025-10-20T16:32:59-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policy issues related to border technology and Autonomous Surveillance Towers program of record. FY 2026 Appropriations. H.R. 4213 - Department of Homeland Security Appropriations Act, 2026"
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "H.R. 1/PL 119-21 - One Big Beautiful Bill Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/a097259c-983b-4f0a-920f-49e540ae4440/print/"
+    },
+    {
+      "filingId": "3e2816b0-6981-4908-a712-f4bb6b6fbb70",
+      "filingDate": "2025-10-16T15:18:01-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, rocket motors, munitions, uncrewed aircraft, and space in the House and Senate versions of the FY26 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, rocket motors, munitions, uncrewed aircraft, and space at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/3e2816b0-6981-4908-a712-f4bb6b6fbb70/print/"
+    },
+    {
+      "filingId": "8e20da08-8a17-4d65-95d7-23055b17cb4d",
+      "filingDate": "2025-10-15T14:09:12-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act; Monitor implementation of H.R. 1, the One Big Beautiful Bill Act"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act; Monitor implementation of H.R. 1, the One Big Beautiful Bill Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/8e20da08-8a17-4d65-95d7-23055b17cb4d/print/"
+    },
+    {
+      "filingId": "7669d276-b770-4e54-9b71-4b8689943fdc",
+      "filingDate": "2025-07-21T23:07:06-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 700000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), To provide for reconciliation pursuant to title II of H. Con. Res. 14 (H.R. 1 / no Senate bill number), and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Issues related to funding, policies and regulations regarding the ITAR and EAR and Foreign Military Sales/Financing (no bill number)."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016, no Senate bill number), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (no House bill number, S. 2296), To provide for reconciliation pursuant to title II of H. Con. Res. 14 (H.R. 1 / no Senate bill number), and related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no bill numbers)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the Fiscal Year 2026 Homeland Security Appropriations Act (H.R. 4213, no Senate bill number), and related policy and funding legislation (no bill numbers); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the Department of Defense Appropriations Act, 2026 (H.R. 4016, no Senate bill number), the House and Senate versions of National Defense Authorization Act for Fiscal Year 2026 (no House bill number, S. 2296), and related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no bill numbers); issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence in the House and Senate versions of the FY2026 Energy and Water Development and Related Agencies Appropriations Act (no bill numbers) and related policy and funding legislation."
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, and acquisition policy in the Department of Defense Appropriations Act, 2026 (H.R. 4016, no Senate bill number), the House and Senate versions of FY2026 National Defense Authorization Act (no House bill number, S. 2296), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no bill numbers)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/7669d276-b770-4e54-9b71-4b8689943fdc/print/"
+    },
+    {
+      "filingId": "7bf15532-8654-4a73-bc87-e1bb2eab62f9",
+      "filingDate": "2025-07-18T12:24:11-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policy issues related to border technology and Autonomous Surveillance Towers program of record. FY 2026 Appropriations. H.R. 4213 - Department of Homeland Security Appropriations Act, 2026"
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "H.R. 1 - One Big Beautiful Bill Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/7bf15532-8654-4a73-bc87-e1bb2eab62f9/print/"
+    },
+    {
+      "filingId": "684ec584-dab2-4b42-8ba5-fd861bfd8721",
+      "filingDate": "2025-07-13T15:05:12-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, rocket motors, and space in the House and Senate versions of the FY26 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, rocket motors, and space at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/684ec584-dab2-4b42-8ba5-fd861bfd8721/print/"
+    },
+    {
+      "filingId": "25d43880-5d3b-40d3-92fd-2923e57e1d1b",
+      "filingDate": "2025-07-10T12:04:11-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY26 Department of Defense Appropriations Act, FY26 National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/25d43880-5d3b-40d3-92fd-2923e57e1d1b/print/"
+    },
+    {
+      "filingId": "c0ac99af-4dd9-4f35-8ea0-44e3a76f2d48",
+      "filingDate": "2025-04-21T22:48:12-04:00",
+      "filingType": "1st Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 490000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025, the House and Senate Versions of the Fiscal Year 2026 Homeland Security Appropriations Act (no bill numbers) and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025, the House and Senate versions of the Fiscal Year 2026 Defense Appropriations Act (no bill numbers), the House and Senate versions of FY2026 National Defense Authorization Act (no bill numbers) and related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no bill numbers)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to unmanned and autonomous systems, border technology and Autonomous Surveillance Towers program of record in the H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025, The Fiscal Year 2026 Homeland Security Appropriations Act (no House number, no Senate bill number) and related policy and funding legislation (no bill numbers); Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence, rocket motor systems, connected warfare/C2, Air Dominance, Strike, Space and Intelligence Systems, Maritime, export control, Foreign Military Sales, and acquisition policy at Department of Defense in the H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025, the House and Senate versions of the Fiscal Year 2026 Defense Appropriations Act (no bill numbers), the House and Senate versions of FY2026 National Defense Authorization Act (no bill numbers) and related policy and funding legislation (no bill numbers), and the House and Senate versions of the FY2026 Intelligence Authorization Act (no bill numbers); Issues related to funding and policies regarding unmanned and autonomous systems, air and ground deterrence in the H.R. 1968, Full-Year Continuing Appropriations and Extensions Act, 2025, and the FY2026 House and Senate versions of the Energy and Water Development and Related Agencies Appropriations Act (no bill numbers) and related policy and funding legislation."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Issues related to funding, policies and regulations regarding the ITAR and EAR and Foreign Military Sales/Financing (no bill number)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/c0ac99af-4dd9-4f35-8ea0-44e3a76f2d48/print/"
+    },
+    {
+      "filingId": "20787888-222d-483e-a5a5-6e39ed91e397",
+      "filingDate": "2025-04-17T11:29:35-04:00",
+      "filingType": "1st Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policy issues related to border technology and Autonomous Surveillance Towers program of record. H.R. 1968 - Full-year Continuing Appropriations and Extensions Act, 2025. FY 2026 Appropriations."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "2025 Budget Reconciliation."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/20787888-222d-483e-a5a5-6e39ed91e397/print/"
+    },
+    {
+      "filingId": "0a69fc0c-4f53-4dc5-817f-ea190ebb3ce1",
+      "filingDate": "2025-04-15T18:23:37-04:00",
+      "filingType": "1st Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, and rocket motors in the House and Senate versions of the FY25 & 26 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, and rocket motors at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/0a69fc0c-4f53-4dc5-817f-ea190ebb3ce1/print/"
+    },
+    {
+      "filingId": "c834c4fa-7263-42dc-bcc1-cd031b3342a5",
+      "filingDate": "2025-04-14T16:27:38-04:00",
+      "filingType": "1st Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY25/FY26 Department of Defense Appropriations, FY26 National Defense Authorization Act"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY25/FY26 Department of Defense Appropriations, FY26 National Defense Authorization Act"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/c834c4fa-7263-42dc-bcc1-cd031b3342a5/print/"
+    },
+    {
+      "filingId": "e4abf872-194e-4cf2-9a60-efc9a339140f",
+      "filingDate": "2025-01-21T19:57:19-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 550000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the Fiscal Year 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy, funding, and appropriations regarding force protection, unmanned and autonomous systems, JADC2, cUAS, maritime, rocket motor systems, Foreign Military Sales, and scaling innovation at Department of Defense in the House and Senate versions of FY2025 Defense Appropriations Act (H.R. 8774, S.4921), the National Defense Authorization Act (H.R. 5009, S. 4638), and related policy and funding legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the FY2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number); issues related to policy, funding, and appropriations regarding force protection, unmanned and autonomous systems, JADC2, cUAS, maritime, rocket motor systems, Foreign Military Sales, and scaling innovation in the House and Senate versions of Fiscal Year 2025 Defense Appropriations Act (H.R. 8774, S. 4921), the Fiscal Year 2025 National Defense Authorization Act (H.R. 5009, S. 4638), and related policy and funding legislation (no bill numbers); issues related to policy, funding and appropriations regarding force protection, Counter UAS, and unmanned and autonomous systems in the FY2025 House and Senate versions of the Energy and Water Development and Related Agencies Appropriations Act (H.R. 8997, S. 4927)."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Regulatory amendments, policy and funding priorities relating to the ITAR and EAR and Foreign Military Sales/Financing (no bill number)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/e4abf872-194e-4cf2-9a60-efc9a339140f/print/"
+    },
+    {
+      "filingId": "830967cc-ad82-4988-89f6-6882170e9324",
+      "filingDate": "2025-01-21T09:32:53-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, and rocket motors in the House and Senate versions of the FY2025 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, and rocket motors at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/830967cc-ad82-4988-89f6-6882170e9324/print/"
+    },
+    {
+      "filingId": "1c0b4287-2585-402a-8958-c760bb3e1782",
+      "filingDate": "2025-01-20T17:47:34-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY25 Department of Defense Appropriations, FY25 National Defense Authorization Act"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY25 Department of Defense Appropriations, FY25 National Defense Authorization Act"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/1c0b4287-2585-402a-8958-c760bb3e1782/print/"
+    },
+    {
+      "filingId": "544b6d70-23d2-4329-82ed-72758801b23b",
+      "filingDate": "2025-01-20T10:01:36-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate version of the FY 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate version of the FY 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy legislation (no bill numbers)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/544b6d70-23d2-4329-82ed-72758801b23b/print/"
+    },
+    {
+      "filingId": "feed59a6-37d4-4712-9d30-3738f9158732",
+      "filingDate": "2024-10-21T20:49:29-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 401105824
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207547,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 490000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy, funding, and appropriations regarding force protection, unmanned and autonomous systems, JADC2, cUAS, maritime, rocket motor systems, Foreign Military Sales, and scaling innovation at Department of Defense in the House and Senate versions of FY2025 Defense Appropriations Act (H.R. 8774, S.4921), and the House and Senate versions of FY2025 National Defense Authorization Act (H.R. 8070, S. 4638)."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the Fiscal Year 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to border technology and Autonomous Surveillance Towers program of record in the House and Senate versions of the FY2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number); issues related to policy, funding, and appropriations regarding force protection, unmanned and autonomous systems, JADC2, cUAS, maritime, rocket motor systems, Foreign Military Sales, and scaling innovation in the House and Senate versions of Fiscal Year 2025 Defense Appropriations Act (H.R. 8774, S. 4921), and the House and Senate versions of Fiscal Year 2025 National Defense Authorization Act (H.R. 8070, S. 4638); issues related to policy, funding and appropriations regarding force protection, Counter UAS, and unmanned and autonomous systems in the FY2025 House and Senate versions of the Energy and Water Development and Related Agencies Appropriations Act (H.R. 8997, S. 4927)."
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "Regulatory amendments, policy and funding priorities relating to the ITAR and EAR and Foreign Military Sales/Financing (no bill number)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/feed59a6-37d4-4712-9d30-3738f9158732/print/"
+    },
+    {
+      "filingId": "0592064e-2bae-43dc-9d7f-edfae63d97a2",
+      "filingDate": "2024-10-20T17:55:20-04:00",
+      "filingType": "3rd Quarter - Termination (No Activity)",
+      "filingYear": 2024,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "INVARIANT LLC",
+        "id": 314237
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES",
+        "id": 184916,
+        "generalDescription": "Develops technology for defense, law enforcement, and border security applications."
+      },
+      "income": null,
+      "expenses": null,
+      "lobbyingActivities": [],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/0592064e-2bae-43dc-9d7f-edfae63d97a2/print/"
+    },
+    {
+      "filingId": "560534af-2db7-457c-830d-28debe4ab249",
+      "filingDate": "2024-10-18T12:22:04-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "MEHLMAN CONSULTING, INC.",
+        "id": 284950
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC",
+        "id": 210836,
+        "generalDescription": "Tech co. providing autonomous surveillance technology to both DoD and DHS"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate version of the FY 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy legislation (no bill numbers)."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "Issues related to funding and policies related to border technology and Autonomous Surveillance Towers program of record in the House and Senate version of the FY 2025 Homeland Security Appropriations Act (H.R. 8752, no Senate bill number) and related policy legislation (no bill numbers)."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/560534af-2db7-457c-830d-28debe4ab249/print/"
+    },
+    {
+      "filingId": "416de7e3-c65a-476d-bac3-90190376d098",
+      "filingDate": "2024-10-17T11:31:27-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ICEBREAKER STRATEGIES, LLC",
+        "id": 401107574
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES INC",
+        "id": 56080,
+        "generalDescription": "Security solution company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to funding and appropriations regarding cUAS, maritime, and rocket motors in the House and Senate versions of the FY2025 Department of Defense Appropriations Act. Funding and policies related to border technology and the Autonomous Surveillance Towers program of record."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to policy regarding cUAS, maritime, and rocket motors at Department of Defense in the House and Senate versions of the National Defense Authorization Act."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/416de7e3-c65a-476d-bac3-90190376d098/print/"
+    },
+    {
+      "filingId": "f2382ecd-536a-4e66-a20d-7e60e89844a0",
+      "filingDate": "2024-10-16T22:58:24-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2024,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "CORNERSTONE GOVERNMENT AFFAIRS, INC.",
+        "id": 75557
+      },
+      "client": {
+        "name": "ANDURIL INDUSTRIES, INC.",
+        "id": 207833,
+        "generalDescription": "Defense startup building AI-powered defense technology"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY25 Department of Defense Appropriations, FY25 National Defense Authorization Act"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY25 Department of Defense Appropriations, FY25 National Defense Authorization Act"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/f2382ecd-536a-4e66-a20d-7e60e89844a0/print/"
+    }
+  ],
+  "cross_references": {
+    "officer_overlap": [],
+    "name_variations": [
+      "ANDURIL INDUSTRIES, INC",
+      "ANDURIL INDUSTRIES, INC."
+    ],
+    "total_contract_value": 559660342.16,
+    "total_lobbying_spend": 1020000,
+    "states_with_registrations": [
+      "CT",
+      "DC",
+      "IA",
+      "NY",
+      "OR",
+      "PA"
+    ]
+  },
+  "errors": [
+    "Entity CT:001eq000001qfksAAA: Filed API error 404: {\"error\":{\"code\":\"not_found\",\"message\":\"Entity 'CT:001eq000001qfksAAA' not found.\"}}"
+  ]
+}

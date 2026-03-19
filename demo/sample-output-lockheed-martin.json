@@ -1,0 +1,2425 @@
+{
+  "company_name": "Lockheed Martin",
+  "states_searched": [
+    "AK",
+    "CO",
+    "CT",
+    "DC",
+    "FL",
+    "IA",
+    "NY",
+    "OR",
+    "PA"
+  ],
+  "state_registrations": [
+    {
+      "id": "4079c317-44d1-4c52-9451-9f46b4d1f492",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "AK",
+      "type": "Corporation",
+      "status": "Good Standing",
+      "formedDate": "1996-02-08",
+      "registeredAgent": {
+        "name": "Corporation Service Company",
+        "address": "8585 OLD DAIRY RD STE 208, JUNEAU, AK, 99801"
+      },
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-02-27T21:13:00.876+00:00"
+    },
+    {
+      "id": "1137dbfa-90da-44fe-bf47-6ab66b45b97b",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "AK",
+      "type": "Corporation",
+      "status": "Good Standing",
+      "formedDate": "2009-07-21",
+      "registeredAgent": {
+        "name": "Corporation Service Company",
+        "address": "8585 OLD DAIRY RD STE 208, JUNEAU, AK, 99801"
+      },
+      "principalAddress": "244 TERMINAL RD, GREENVILLE, SC, 29605-1940",
+      "officerCount": 0,
+      "lastUpdated": "2026-02-27T21:13:20.788+00:00"
+    },
+    {
+      "id": "0d0e14ef-f657-4437-8b3f-cccf5a11b418",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "AK",
+      "type": "LLC",
+      "status": "Good Standing",
+      "formedDate": "2016-11-04",
+      "registeredAgent": {
+        "name": "Corporation Service Company",
+        "address": "8585 OLD DAIRY RD STE 208, JUNEAU, AK, 99801"
+      },
+      "principalAddress": "1 CURIE CT, ROCKVILLE, MD, 20850",
+      "officerCount": 0,
+      "lastUpdated": "2026-02-27T21:14:22.584+00:00"
+    },
+    {
+      "id": "f6dd8545-649b-4208-8c9a-57baf8fe4ae4",
+      "name": "LOCKHEED MARTIN SERVICES, LLC",
+      "state": "AK",
+      "type": "LLC",
+      "status": "Good Standing",
+      "formedDate": "2016-09-29",
+      "registeredAgent": {
+        "name": "Corporation Service Company",
+        "address": "8585 OLD DAIRY RD STE 208, JUNEAU, AK, 99801"
+      },
+      "principalAddress": "1 CURIE CT, ROCKVILLE, MD, 20850",
+      "officerCount": 0,
+      "lastUpdated": "2026-02-27T21:14:12.579+00:00"
+    },
+    {
+      "id": "CT:001t000000hJrseAAC",
+      "name": "LOCKHEED MARTIN ASPEN SYSTEMS CORPORATION",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "2006-01-26",
+      "registeredAgent": null,
+      "principalAddress": "700 N FREDERICK AVE, GAITHERSBURG, MD, 20879",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000WmhkRAAR",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Active",
+      "formedDate": "1995-12-29",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000hjOmaAAE",
+      "name": "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS, INC.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "2000-03-23",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DRIVE, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000hjKvrAAE",
+      "name": "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS SERVICES, INC.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "2000-10-19",
+      "registeredAgent": null,
+      "principalAddress": "NONE",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000hjpoDAAQ",
+      "name": "LOCKHEED MARTIN INFORMATION TECHNOLOGY COMMERCIAL CORP.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "2003-01-28",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000hjGTVAA2",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, INC.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "1995-12-28",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DRIVE, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000Wo4DfAAJ",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "state": "CT",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-12",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000WnrtmAAB",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Active",
+      "formedDate": "2014-07-30",
+      "registeredAgent": null,
+      "principalAddress": "244 TERMINAL RD, GREENVILLE, SC, 29605",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000hJobHAAS",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, INC.",
+      "state": "CT",
+      "type": "Stock",
+      "status": "Withdrawn",
+      "formedDate": "1981-11-24",
+      "registeredAgent": null,
+      "principalAddress": "700 N FREDERICK AVE, GAITHERSBURG, MD, 20879",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "CT:001t000000Wo4GpAAJ",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "CT",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-16",
+      "registeredAgent": null,
+      "principalAddress": "1 CURIE COURT, ROCKVILLE, MD, 20850",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.896Z"
+    },
+    {
+      "id": "DC:221260",
+      "name": "LOCKHEED MARTIN ASPENMED SERVICES INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Withdrawn",
+      "formedDate": "2002-04-23",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "PO BOX 61511, BLDG 100, RM U4632, KING OF PRUSSIA, PA, 19406",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:874368",
+      "name": "LOCKHEED MARTIN COMMERCIAL LAUNCH SERVICES INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "1987-11-23",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "12257 SOUTH WADSWORTH BLVD, LITTLETON, CO, 80125",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:931438",
+      "name": "LOCKHEED MARTIN COMPASS COMPUTER SERVICES INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Withdrawn",
+      "formedDate": "1993-04-22",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:961252",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "1996-04-17",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "6801 Rockledge Dr, Bethesda, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:924285",
+      "name": "LOCKHEED MARTIN FEDERAL HEALTHCARE INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Revoked",
+      "formedDate": "1992-12-10",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "11951 FREEDOM DR, RESTON, VA, 20190",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:203940",
+      "name": "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS SERVICES INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Withdrawn",
+      "formedDate": "2000-10-30",
+      "registeredAgent": null,
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:201313",
+      "name": "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS, INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Withdrawn",
+      "formedDate": "2000-04-12",
+      "registeredAgent": null,
+      "principalAddress": "6801 Rockledge Drive,, Bethesda, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:835849",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "1983-12-08",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:981723",
+      "name": "LOCKHEED MARTIN INTERNATIONAL SERVICE CORPORATION",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Withdrawn",
+      "formedDate": "1998-05-28",
+      "registeredAgent": null,
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "DC:L06369",
+      "name": "LOCKHEED MARTIN KEYWARE SOLUTIONS LLC",
+      "state": "DC",
+      "type": "LLC",
+      "status": "Merged",
+      "formedDate": "2000-07-19",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": "2677 PROSPERITY AVE, STE 700, FAIRFAX, VA, 22031",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.665Z"
+    },
+    {
+      "id": "8f3eebc6-a28a-4dab-96d9-cb400c9c8ae5",
+      "name": "LOCKHEED MARTIN ASSOCIATION OF COMMUNITY VOLUNTEERS, INC.",
+      "state": "FL",
+      "type": "Nonprofit",
+      "status": "Active",
+      "formedDate": "1986-02-14",
+      "registeredAgent": {
+        "name": "GILLETT             MICHAEL       E",
+        "address": "300 East Church St., Orlando, FL, 32801"
+      },
+      "principalAddress": "300 East Church St., Orlando, FL, 32801",
+      "officerCount": 4,
+      "lastUpdated": "2026-02-27T22:41:51.926+00:00"
+    },
+    {
+      "id": "909392ca-7f48-40a1-8caf-efb8efd3f57e",
+      "name": "LOCKHEED MARTIN COMMERCIAL LAUNCH SERVICES, INC.",
+      "state": "FL",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "1987-11-24",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": "1201 HAYS ST, TALLAHASSEE, FL, 32301"
+      },
+      "principalAddress": "12257 SOUTH WADSWORTH BLVD, MS 5120, LITTLETON, CO, 80125",
+      "officerCount": 6,
+      "lastUpdated": "2026-02-27T23:12:30.304+00:00"
+    },
+    {
+      "id": "2e996e9c-51f5-4652-b93b-9f202e135878",
+      "name": "LOCKHEED MARTIN GYROCAM SYSTEMS LLC",
+      "state": "FL",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2003-06-16",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": "1201 HAYS STREET, TALLAHASSEE, FL, 323012525"
+      },
+      "principalAddress": "5600 SAND LAKE RD, ORLANDO, FL, 32819",
+      "officerCount": 6,
+      "lastUpdated": "2026-02-27T21:43:00.677+00:00"
+    },
+    {
+      "id": "bf39c69d-6982-42c0-983f-98d91ae07573",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "state": "FL",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-12",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": "1201 HAYS STREET, TALLAHASSEE, FL, 323012525"
+      },
+      "principalAddress": "6801 ROCKLEDGE DRIVE, BETHESDA, MD, 20817",
+      "officerCount": 6,
+      "lastUpdated": "2026-02-27T22:32:44.91+00:00"
+    },
+    {
+      "id": "bf085f2b-021e-455a-8386-8ec335decde7",
+      "name": "LOCKHEED MARTIN SERVICES, LLC",
+      "state": "FL",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-25",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": "1201 HAYS STREET, TALLAHASSEE, FL, 323012525"
+      },
+      "principalAddress": "1 CURIE COURT, ROCKVILLE, MD, 20850",
+      "officerCount": 6,
+      "lastUpdated": "2026-02-27T22:05:12.899+00:00"
+    },
+    {
+      "id": "23a175a6-118d-4dc0-94d9-a4634f60f818",
+      "name": "LOCKHEED MARTIN SIPPICAN, INC.",
+      "state": "FL",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2024-04-05",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": "1201 HAYS STREET, TALLAHASSEE, FL, 323012525"
+      },
+      "principalAddress": "497 ELECTRONICS PKWY., LIVERPOOL, NY, 13088",
+      "officerCount": 6,
+      "lastUpdated": "2026-02-27T22:40:22.875+00:00"
+    },
+    {
+      "id": "IA:192688",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "IA",
+      "type": "FOREIGN PROFIT",
+      "status": "N/A",
+      "formedDate": "1996-01-29",
+      "registeredAgent": null,
+      "principalAddress": "BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.755Z"
+    },
+    {
+      "id": "IA:529045",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "IA",
+      "type": "LLC",
+      "status": "N/A",
+      "formedDate": "2016-08-25",
+      "registeredAgent": null,
+      "principalAddress": "ROCKVILLE, MD, 20850",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.755Z"
+    },
+    {
+      "id": "NY:4861140",
+      "name": "LOCKHEED MARTIN ACULIGHT CORPORATION",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2015-12-09",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:1930455",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "1995-06-13",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:5313717",
+      "name": "LOCKHEED MARTIN EPC, LLC",
+      "state": "NY",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2018-03-29",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:2988992",
+      "name": "LOCKHEED MARTIN GLOBAL, INC.",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2003-12-16",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:5000064",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "state": "NY",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-29",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:4149106",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2011-10-03",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:4996901",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "NY",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-22",
+      "registeredAgent": {
+        "name": "C/O CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:4988010",
+      "name": "LOCKHEED MARTIN OVERSEAS, LLC",
+      "state": "NY",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-04",
+      "registeredAgent": {
+        "name": "C/O CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:5001680",
+      "name": "LOCKHEED MARTIN SERVICES, LLC",
+      "state": "NY",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-31",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "NY:4998842",
+      "name": "LOCKHEED MARTIN SIPPICAN, INC.",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2016-08-25",
+      "registeredAgent": {
+        "name": "CORPORATION SERVICE COMPANY",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:04.192Z"
+    },
+    {
+      "id": "OR:49820483",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "230 MALL BLVD, BLDG 100 RM M7023, KING OF PRUSSIA, PA, 19406",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:49820483",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "1127 BROADWAY STREET NE STE 310, SALEM, OR, 97301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:49820483",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "6801 ROCKLEDGE DR, BETHESDA, MD, 20817",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:182459793",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2021-05-17",
+      "registeredAgent": null,
+      "principalAddress": "1127 BROADWAY ST NE, SALEM, OR, 97301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:182459793",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2021-05-17",
+      "registeredAgent": null,
+      "principalAddress": "PO BOX 61511, BLDG 100 RM M7023, KING OF PRUSSIA, PA, 19406",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:182459793",
+      "name": "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "state": "OR",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2021-05-17",
+      "registeredAgent": null,
+      "principalAddress": "244 TERMINAL RD BUILDING 244, GREENVILLE, SC, 29605",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:124207895",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "OR",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-17",
+      "registeredAgent": null,
+      "principalAddress": "1 CURIE CT, ROCKVILLE, MD, 20850",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:124207895",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "OR",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-17",
+      "registeredAgent": null,
+      "principalAddress": "PO BOX 61511, BLDG 100 RM M7023, KING OF PRUSSIA, PA, 19406",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:124207895",
+      "name": "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "state": "OR",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-17",
+      "registeredAgent": null,
+      "principalAddress": "1127 BROADWAY ST NE STE 310, SALEM, OR, 97301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "OR:124463894",
+      "name": "LOCKHEED MARTIN SERVICES, LLC",
+      "state": "OR",
+      "type": "LLC",
+      "status": "Active",
+      "formedDate": "2016-08-25",
+      "registeredAgent": null,
+      "principalAddress": "1127 BROADWAY ST NE STE 310, SALEM, OR, 97301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:02.939Z"
+    },
+    {
+      "id": "PA:0000977767",
+      "name": "LOCKHEED MARTIN AEROPARTS, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1987-04-29",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0000977767",
+      "name": "LOCKHEED MARTIN AEROPARTS, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1987-04-29",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0000977767",
+      "name": "LOCKHEED MARTIN AEROPARTS, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1987-04-29",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0000977767",
+      "name": "LOCKHEED MARTIN AEROPARTS, INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1987-04-29",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0002676705",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0002676705",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0002676705",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0002676705",
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "1996-01-30",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0000337442",
+      "name": "LOCKHEED MARTIN EMPLOYEE RECREATIONAL ASSOCIATION",
+      "state": "PA",
+      "type": "Nonprofit",
+      "status": "N/A",
+      "formedDate": "1964-04-14",
+      "registeredAgent": null,
+      "principalAddress": "230 E Mall Blvd, King of Prussia, PA, 19406-0",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    },
+    {
+      "id": "PA:0000813921",
+      "name": "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "state": "PA",
+      "type": "LLC",
+      "status": "N/A",
+      "formedDate": "1984-05-14",
+      "registeredAgent": null,
+      "principalAddress": "5235 North Front Street, Harrisburg, PA, 17110",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:03.974Z"
+    }
+  ],
+  "officers_across_states": [],
+  "sec_filings": [
+    {
+      "accessionNumber": "0001628280-25-026244",
+      "formType": "S-1",
+      "fileDate": "2025-05-16",
+      "periodEnding": null,
+      "filer": "Voyager Technologies, Inc./DE  (CIK 0001788060)",
+      "cik": "0001788060",
+      "sicCode": "3760",
+      "description": "EX-10.9",
+      "businessLocation": "Denver, CO",
+      "businessState": "CO",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1788060/000162828025026244/0001628280-25-026244-index.htm"
+    },
+    {
+      "accessionNumber": "0000936468-25-000009",
+      "formType": "10-K",
+      "fileDate": "2025-01-28",
+      "periodEnding": "2024-12-31",
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-19",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000093646825000009/0000936468-25-000009-index.htm"
+    },
+    {
+      "accessionNumber": "0000950170-24-108842",
+      "formType": "CORRESP",
+      "fileDate": "2024-09-23",
+      "periodEnding": null,
+      "filer": "Terran Orbital Corp  (LLAP, LLAPW)  (CIK 0001835512)",
+      "cik": "0001835512",
+      "sicCode": "3760",
+      "description": null,
+      "businessLocation": "Boca Raton, FL",
+      "businessState": "FL",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1835512/000095017024108842/0000950170-24-108842-index.htm"
+    },
+    {
+      "accessionNumber": "0001214659-24-006444",
+      "formType": "PX14A6G",
+      "fileDate": "2024-04-10",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": null,
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000121465924006444/0001214659-24-006444-index.htm"
+    },
+    {
+      "accessionNumber": "0000936468-23-000054",
+      "formType": "S-8",
+      "fileDate": "2023-04-18",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-24.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000093646823000054/0000936468-23-000054-index.htm"
+    },
+    {
+      "accessionNumber": "0000950170-22-020520",
+      "formType": "8-K",
+      "fileDate": "2022-10-31",
+      "periodEnding": "2022-10-31",
+      "filer": "Terran Orbital Corp  (LLAP, LLAPW)  (CIK 0001835512)",
+      "cik": "0001835512",
+      "sicCode": "3760",
+      "description": "EX-10.2",
+      "businessLocation": "Boca Raton, FL",
+      "businessState": "FL",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1835512/000095017022020520/0000950170-22-020520-index.htm"
+    },
+    {
+      "accessionNumber": "0000936468-20-000081",
+      "formType": "S-8",
+      "fileDate": "2020-04-24",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-24.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000093646820000081/0000936468-20-000081-index.htm"
+    },
+    {
+      "accessionNumber": "0000936468-20-000084",
+      "formType": "S-3ASR",
+      "fileDate": "2020-04-24",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "S-3ASR",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000093646820000084/0000936468-20-000084-index.htm"
+    },
+    {
+      "accessionNumber": "0000936468-20-000084",
+      "formType": "S-3ASR",
+      "fileDate": "2020-04-24",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-24.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000093646820000084/0000936468-20-000084-index.htm"
+    },
+    {
+      "accessionNumber": "0001336920-16-000126",
+      "formType": "10-Q",
+      "fileDate": "2016-11-04",
+      "periodEnding": "2016-09-30",
+      "filer": "Leidos Holdings, Inc.  (LDOS)  (CIK 0001336920)",
+      "cik": "0001336920",
+      "sicCode": "7373",
+      "description": "EXHIBIT 10.6",
+      "businessLocation": "Reston, VA",
+      "businessState": "VA",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/0001336920-16-000126-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-687723",
+      "formType": "SC TO-I/A",
+      "fileDate": "2016-08-23",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "SC TO-I/A",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516687723/0001193125-16-687723-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-687720",
+      "formType": "425",
+      "fileDate": "2016-08-23",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "425",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516687720/0001193125-16-687720-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-687643",
+      "formType": "8-K",
+      "fileDate": "2016-08-22",
+      "periodEnding": "2016-08-16",
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516687643/0001193125-16-687643-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682913",
+      "formType": "SC TO-I/A",
+      "fileDate": "2016-08-16",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "SC TO-I/A",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682913/0001193125-16-682913-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682905",
+      "formType": "425",
+      "fileDate": "2016-08-16",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.2",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682905/0001193125-16-682905-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682905",
+      "formType": "425",
+      "fileDate": "2016-08-16",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682905/0001193125-16-682905-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682904",
+      "formType": "8-K",
+      "fileDate": "2016-08-16",
+      "periodEnding": "2016-08-16",
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682904/0001193125-16-682904-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-683195",
+      "formType": "425",
+      "fileDate": "2016-08-16",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "425",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516683195/0001193125-16-683195-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682904",
+      "formType": "8-K",
+      "fileDate": "2016-08-16",
+      "periodEnding": "2016-08-16",
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.2",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682904/0001193125-16-682904-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-682017",
+      "formType": "425",
+      "fileDate": "2016-08-15",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "425",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516682017/0001193125-16-682017-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-679964",
+      "formType": "425",
+      "fileDate": "2016-08-12",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516679964/0001193125-16-679964-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-679971",
+      "formType": "SC TO-I/A",
+      "fileDate": "2016-08-12",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "SC TO-I/A",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516679971/0001193125-16-679971-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-679963",
+      "formType": "8-K",
+      "fileDate": "2016-08-12",
+      "periodEnding": "2016-08-12",
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "EX-99.1",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516679963/0001193125-16-679963-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-680827",
+      "formType": "425",
+      "fileDate": "2016-08-12",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "425",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516680827/0001193125-16-680827-index.htm"
+    },
+    {
+      "accessionNumber": "0001193125-16-679967",
+      "formType": "425",
+      "fileDate": "2016-08-12",
+      "periodEnding": null,
+      "filer": "LOCKHEED MARTIN CORP  (LMT)  (CIK 0000936468)",
+      "cik": "0000936468",
+      "sicCode": "3760",
+      "description": "425",
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "MD",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/936468/000119312516679967/0001193125-16-679967-index.htm"
+    }
+  ],
+  "federal_contracts": [
+    {
+      "awardId": "FA861125F0036",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 34846676.19,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2030-06-30",
+      "endDate": "2030-06-30",
+      "awardType": null,
+      "description": "F22 PROGRAM SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "N0001925F0169",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 5202357,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2028-12-31",
+      "endDate": "2028-12-31",
+      "awardType": null,
+      "description": "INVESTIGATION SUPPORT - PRODUCTION",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862524F3034",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 1564462687,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2028-12-31",
+      "endDate": "2028-12-31",
+      "awardType": null,
+      "description": "C-130J COMBINED AIRCRAFT DELIVERY DEVELOPMENT INTEGRATION AND ENGINEERING (CADDIE) FY23 C-130J CONGRESSIONAL ADD AIRCRAFT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861124F0015",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 30361418.11,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2028-04-30",
+      "endDate": "2028-04-30",
+      "awardType": null,
+      "description": "F-22 SENSOR ENHANCEMENTS (SEE) GROUP A KIT ORDERING PERIOD 3 AND ORDERING PERIOD 4",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862522F3027",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 1865607013,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2027-09-30",
+      "endDate": "2027-04-30",
+      "awardType": null,
+      "description": "C-130J ADD AIRCRAFTS FY22 CONGRESSIONAL",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862523F3031",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 68642805,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2027-07-31",
+      "endDate": "2027-07-31",
+      "awardType": null,
+      "description": "C-130J / DMS B1 GROUPING UCA",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861123F0002",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 232574606.33,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2027-03-31",
+      "endDate": "2027-03-31",
+      "awardType": null,
+      "description": "F-22 SEE EMD PART B",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861520C6051",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 513599852,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2027-01-31",
+      "endDate": "2028-02-28",
+      "awardType": null,
+      "description": "BULGARIA F-16 PRODUCTION",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862523F0001",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 1326066.42,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-12-31",
+      "endDate": "2026-12-31",
+      "awardType": null,
+      "description": "C-130J COMBINED AIRCRAFT DELIVERY DEVELOPMENT INTEGRATION AND ENGINEERING (CADDIE)/. PROVIDE REMOVABLE MEMORY MODULE (RMM) CARD SOFTWARE KITS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861125F0008",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 13209006,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-12-31",
+      "endDate": "2027-01-31",
+      "awardType": null,
+      "description": "F-22 BUYING F-22 IN-A-BOX SYSTEMS FOR JOINT INTEGRATED TEST AND TRAINING CENTER (JITTC-NELLIS)",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861123F0010",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 347735190.89,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-10-30",
+      "endDate": "2030-10-30",
+      "awardType": null,
+      "description": "F-22 MODE 5 CHALLENGE CAPABILITY",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861124F0018",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 8279083,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "awardType": null,
+      "description": "F-22 PROGRAM SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "N0001925F2088",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 3686552.91,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2026-09-14",
+      "endDate": "2027-01-18",
+      "awardType": null,
+      "description": "OBLIGATING FY25 APN-5 FUNDS FOR 5 LAIRCM A-KITS (#54-58), 5 SUPPLEMENTAL KITS (#54-58), AND 1 BENCH STOCK KIT.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "N0001926F0031",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 31432,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2026-08-26",
+      "endDate": "2026-08-26",
+      "awardType": null,
+      "description": "EGI REPAIR",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA861125F0034",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 55869367.87,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-06-30",
+      "endDate": "2030-06-30",
+      "awardType": null,
+      "description": "F22 PROGRAM OFFICE SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA862523F3030",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 118248309,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-06-01",
+      "endDate": "2028-05-31",
+      "awardType": null,
+      "description": "C-130J/DMS A2 GROUPING (SMDPS, CMDUS, MFCDS, AMUS, CNBPS, DCUS)",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "80GSFC26C0006",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 253723,
+      "awardingAgency": "National Aeronautics and Space Administration",
+      "awardingSubAgency": "National Aeronautics and Space Administration",
+      "startDate": "2026-03-02",
+      "endDate": "2026-05-31",
+      "awardType": null,
+      "description": "THE COMMERCIALIZATION, INNOVATION, AND SYNERGIES (CIS) OFFICE'S FOURTH CAPABILITY STUDIES BAA IS SEEKING INDUSTRY INSIGHTS IN THE FOLLOWING AREA: MARS END-TO-END SERVICE ARCHITECTURES.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "N0001924F0205",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 17578308,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2026-02-13",
+      "endDate": "2026-12-31",
+      "awardType": null,
+      "description": "F-35 LIGHTNING II MISSION SYSTEMS TEST CAPABILITY (MSTC) PROJECT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA860426FB003",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 600312,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-02-01",
+      "endDate": "2026-06-30",
+      "awardType": null,
+      "description": "CONTRACTOR ENGINEERING AND TECHNICAL SERVICES (CETS) FOR TAIWAN BLK 70",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "N0001926F0064",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 54521669,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Navy",
+      "startDate": "2026-01-31",
+      "endDate": "2026-07-31",
+      "awardType": null,
+      "description": "PROGRAM, MAINTENANCE AND LOGISTICS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "70Z03826FD0000003",
+      "recipientName": "LOCKHEED MARTIN CORP",
+      "amount": 249557.74,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Coast Guard",
+      "startDate": "2026-01-22",
+      "endDate": "2027-08-15",
+      "awardType": null,
+      "description": "DELIVERY ORDER OF TEST SETS TO BE USED TO SUPPORT USCG AIRCRAFT.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "80GRC026C0002",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 755000,
+      "awardingAgency": "National Aeronautics and Space Administration",
+      "awardingSubAgency": "National Aeronautics and Space Administration",
+      "startDate": "2026-01-20",
+      "endDate": "2028-07-19",
+      "awardType": null,
+      "description": "THE CONTRACTOR SHALL PROVIDE THE ITEM OR SERVICES SPECIFIED IN SECTION B IN ACCORDANCE WITH THE FOLLOWING: SOW ENTITLED \"SAFER III\" WHICH WILL BE PROVIDED UNDER SEPARATE COVER.  (END OF CLAUSE)",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA854026FB004",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 17731627.69,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "awardType": null,
+      "description": "SNIPER CLS- SUSTAINMENT ORDER 4",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA823226FB046",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 1244512,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-01-01",
+      "endDate": "2028-12-31",
+      "awardType": null,
+      "description": "ISRAEL F-16 ENGINEERING AND INTEGRATOR SUPPORT SERVICES",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "FA823226FB041",
+      "recipientName": "LOCKHEED MARTIN CORPORATION",
+      "amount": 357959,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Air Force",
+      "startDate": "2026-01-01",
+      "endDate": "2028-12-31",
+      "awardType": null,
+      "description": "ISRAEL F-16 IN-COUNTRY TECHNICAL SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    }
+  ],
+  "lobbying_activity": [
+    {
+      "filingId": "aa41d8bc-79a9-4c0f-bafb-3f52d8829e6f",
+      "filingDate": "2026-01-20T19:13:11-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "THEGROUP DC, LLC",
+        "id": 401103834
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 200226,
+        "generalDescription": "Manufacturer of weapons systems"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to technology to mitigate wildfires."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/aa41d8bc-79a9-4c0f-bafb-3f52d8829e6f/print/"
+    },
+    {
+      "filingId": "46d1c82d-82c5-4be7-b2b2-9c64cf92e446",
+      "filingDate": "2026-01-20T18:13:12-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "CAPITOL COUNSEL LLC",
+        "id": 313715
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 184498,
+        "generalDescription": "Defense contractor"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Legislative issues related to defense article sustainment. FY26 National Defense Authorization Act and Defense Appropriations, and FY26 Commerce, Justice, Science, and Related Agencies Appropriations"
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Issues related to tax reform, and general tax issues, including R&D tax amortization. H.R. 1990 - American Innovation and R&D Competitiveness Act."
+        },
+        {
+          "issueCode": "DIS",
+          "issueDescription": "Disaster Planning/Emergencies",
+          "description": "Issues regarding carriage of helicopters related to firefighting missions. Advocacy related to wildfire technology in the FY 2026 Interior, Environment Appropriations bill."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/46d1c82d-82c5-4be7-b2b2-9c64cf92e446/print/"
+    },
+    {
+      "filingId": "c487279d-08d0-4c88-ade9-7fd62bb6224b",
+      "filingDate": "2026-01-20T17:18:53-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "LGL ADVISORS LLC",
+        "id": 401106585
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 66133,
+        "generalDescription": "Defense and aerospace technology company."
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Provide strategic counsel and advocacy on issues relating to general defense policy and defense acquisition."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/c487279d-08d0-4c88-ade9-7fd62bb6224b/print/"
+    },
+    {
+      "filingId": "5fb70928-8f46-4e82-aeb6-c4599381de38",
+      "filingDate": "2026-01-20T16:43:44-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 23031
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 129850,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 3910000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "S 2572/HR 4016 - Department of Defense Appropriations Act, 2026 including issues related to tactical fixed wing aviation programs, defense, Army Navy and Missile Defense Agency procurement, Research Development Test Evaluation (RDTE), hypersonic weapons; S 1071 - National Defense Authorization Act for Fiscal Year 2026 including issues related to Army Navy and Missile Defense Agency procurement, RDTE; S 2431/HR 4754 (HR 119-215, SR 119-46) - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026 including issues related to wildfire transformation and technology"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "S 2572/HR 4016 - Department of Defense Appropriations Act, 2026 including issues related to aircraft, acquisition policy, space, missile defense, classified programs, strategic programs, Army Navy and Missile Defense Agency procurement, RDTE, rotary wing aircraft, munitions, communications, sensors, transport aircraft, land sea and air based tactical missiles, integrated air and missile defense systems; S 1071/HR 3838 - National Defense Authorization Act for Fiscal Year 2026 including issues related to aircraft, acquisition policy, spectrum, space, missile defense, classified programs, strategic programs, tactical fixed wing aviation programs, Army Navy and Missile Defense Agency procurement, RDTE, rotary wing aircraft, munitions, communications, sensors, transport aircraft, land sea and air based tactical missiles, integrated air and missile defense systems, hypersonic weapons; S 5618 - FoRGED Act including issues related to acquisition policy"
+        },
+        {
+          "issueCode": "AER",
+          "issueDescription": "Aerospace",
+          "description": "S 2354/HR 5342 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026 including issues related to civil space, aeronautics; S 933 - NASA Transition Authorization Act of 2025 including issues related to civil space, aeronautics; HR 5371 - Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026 including issues related to space programs"
+        },
+        {
+          "issueCode": "ENV",
+          "issueDescription": "Environment/Superfund",
+          "description": "Discussions related to firefighting"
+        },
+        {
+          "issueCode": "NAT",
+          "issueDescription": "Natural Resources",
+          "description": "S 1462/HR 471 - Fix Our Forests Act including issues related to technology and innovation"
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "HR 1 - One Big Beautiful Bill Act including issues related to R&D and Corporate Alternative Minimum Tax interaction, foreign-derived deduction eligible income regulations; Discussions on the implementation of Australias New Tax Reporting Regime"
+        },
+        {
+          "issueCode": "TEC",
+          "issueDescription": "Telecommunications",
+          "description": "Discussions on spectrum and national security"
+        },
+        {
+          "issueCode": "TRD",
+          "issueDescription": "Trade (domestic/foreign)",
+          "description": "S 1071/HR 3838 - National Defense Authorization Act for Fiscal Year 2026, Title XII, including issues related to foreign military sales reform"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "S 2342/HR 5167 - Intelligence Authorization Act for Fiscal Year 2026 including issues related to classified intelligence programs"
+        },
+        {
+          "issueCode": "HCR",
+          "issueDescription": "Health Issues",
+          "description": "HR 6703 - Lower Health Care Premiums for All Americans Act including issues related to Pharmacy Benefit Managers increased disclosure provisions"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/5fb70928-8f46-4e82-aeb6-c4599381de38/print/"
+    },
+    {
+      "filingId": "f77342cc-377e-44ee-aaf6-716a2fe8f138",
+      "filingDate": "2026-01-20T16:13:45-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "BALLARD SPAHR LLP",
+        "id": 400552654
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 209435,
+        "generalDescription": "defense and aerospace technology company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to the Strategic National Stock Pile; 2026 NDAA; FY26 appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/f77342cc-377e-44ee-aaf6-716a2fe8f138/print/"
+    },
+    {
+      "filingId": "ae24f3e3-5f59-4e56-a83e-0a5616ed7477",
+      "filingDate": "2026-01-20T16:12:33-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+        "id": 32486
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN",
+        "id": 140639,
+        "generalDescription": null
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Tax treatment of R&D expenses and other corporate provisions"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "\u25cfF-35 Joint Strike Fighter Program, NDAA \u25cfLC-130, NDAA \u25cfDefense acquisition reform legislation"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY26 appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/ae24f3e3-5f59-4e56-a83e-0a5616ed7477/print/"
+    },
+    {
+      "filingId": "55078848-5151-45f3-9172-a82fd75f9323",
+      "filingDate": "2026-01-20T15:43:32-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MICHAEL BEST STRATEGIES LLC",
+        "id": 401103565
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 67402,
+        "generalDescription": "Multinational aerospace, defense, and technology corporation"
+      },
+      "income": 80000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Legislative issues related to defense procurement; S. 2296--National Defense Authorization Act for Fiscal Year 2026; H.R. 4016--Department of Defense Appropriations Act, 2026; H.R. 5342--Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026. Executive Branch budget issues for DOD, NASA. Spectrum as part of H.R. 1 (One Big Beautiful Bill Act)"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/55078848-5151-45f3-9172-a82fd75f9323/print/"
+    },
+    {
+      "filingId": "834d0cd1-76c9-4f21-a901-7b3715f4e123",
+      "filingDate": "2026-01-20T11:45:11-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "HOLLY STRATEGIES INCORPORATED",
+        "id": 401104742
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 202600,
+        "generalDescription": "Global security and aerospace company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "H.R. 3434 - The National Defense Authorization Act for Fiscal Year 2026 S. 2296 - The National Defense Authorization Act for Fiscal Year 2026 H.R. 4016 - Department of Defense Appropriations Act, 2026 S. 2572 - Department of Defense Appropriations Act, 2026"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/834d0cd1-76c9-4f21-a901-7b3715f4e123/print/"
+    },
+    {
+      "filingId": "51006822-e59e-4434-9a7c-7c08556c3026",
+      "filingDate": "2026-01-20T08:51:35-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "COZEN O'CONNOR PUBLIC STRATEGIES",
+        "id": 400459252
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 60210,
+        "generalDescription": "Defense and aerospace technology company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and procurement, including annual authorization and appropriations bills. FY 2025 Disaster supplemental - hurricane hunter aircraft"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to defense policy and procurement, including annual authorization and appropriations bills. FY 2025 Disaster supplemental - hurricane hunter aircraft"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/51006822-e59e-4434-9a7c-7c08556c3026/print/"
+    },
+    {
+      "filingId": "80807967-ac5d-4498-b94b-b53925be6d43",
+      "filingDate": "2026-01-16T12:48:35-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "PENN AVENUE PARTNERS",
+        "id": 400918672
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 196195,
+        "generalDescription": "Global security and aerospace company."
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Defense Appropriations."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Defense issues impacting Lockheed Martin Corporation. Spectrum policy."
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Tax matters impacting Lockheed Martin Corporation."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/80807967-ac5d-4498-b94b-b53925be6d43/print/"
+    },
+    {
+      "filingId": "2c58c001-eb27-4bb7-99c2-694c388c3b77",
+      "filingDate": "2026-01-16T10:21:43-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "PLURUS STRATEGIES, LLC",
+        "id": 401104425
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 201776,
+        "generalDescription": "Global security and information technology"
+      },
+      "income": 20000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "General issues related to defense spending in S.2296/H.R.3838, the Fiscal Year 2026 (FY26) National Defense Authorization Act (NDAA) and S.2572/H.R.4016, the Department of Defense Appropriations Act, 2026"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "General issues related to defense spending in S.2572/H.R.4016, the Department of Defense Appropriations Act, 2026"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/2c58c001-eb27-4bb7-99c2-694c388c3b77/print/"
+    },
+    {
+      "filingId": "5ecd7c9c-32f7-4d02-b1ff-a5bc4c9dbae8",
+      "filingDate": "2026-01-14T14:56:42-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MR. MARK REY",
+        "id": 400454181
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORORATION",
+        "id": 191070,
+        "generalDescription": "Defense contractor and technology provider"
+      },
+      "income": 13500,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "NAT",
+          "issueDescription": "Natural Resources",
+          "description": "Fire fighting aircraft Wildland fire issues"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/5ecd7c9c-32f7-4d02-b1ff-a5bc4c9dbae8/print/"
+    },
+    {
+      "filingId": "2d6125b2-4e9f-4d2a-bb84-3ba9af7b1b13",
+      "filingDate": "2026-01-13T13:37:27-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "STRATEGIC MARKETING INNOVATIONS",
+        "id": 60550
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 63552,
+        "generalDescription": "Aerospace company"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "NDAA & Defense appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/2d6125b2-4e9f-4d2a-bb84-3ba9af7b1b13/print/"
+    },
+    {
+      "filingId": "eef47d41-050f-46b2-8203-34d4e0f9ac4c",
+      "filingDate": "2026-01-06T17:15:09-05:00",
+      "filingType": "4th Quarter - Report (No Activity)",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "VENABLE LLP",
+        "id": 39941
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 148723,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": null,
+      "lobbyingActivities": [],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/eef47d41-050f-46b2-8203-34d4e0f9ac4c/print/"
+    },
+    {
+      "filingId": "eabeb8a2-623e-4454-98f5-a61c114ca779",
+      "filingDate": "2026-01-02T11:48:17-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MARSHALL BRACHMAN",
+        "id": 6848
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN AERONAUTIC SECTOR",
+        "id": 109480,
+        "generalDescription": null
+      },
+      "income": 31804,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Armed Services Committee: tactical aircraft issues, space based radar;GP;C-130J;foreign military sales; support helicopter funding; support space hardening; JASSM funding; support JADC2; monitor for defense spectrum issues"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Defense Appropriation: tactical aircraft issues, space based radar;GP;C-130J;foreign military sales; support helicopter funding; support space hardening; JASSM funding;support funding for helicopters and equipment for wildfire firefighting"
+        },
+        {
+          "issueCode": "FOR",
+          "issueDescription": "Foreign Relations",
+          "description": "ratification of law of the sea"
+        },
+        {
+          "issueCode": "BAN",
+          "issueDescription": "Banking",
+          "description": "support defense financing provisions"
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "monitor for provisions related to corporate SALT taxation"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/eabeb8a2-623e-4454-98f5-a61c114ca779/print/"
+    },
+    {
+      "filingId": "28d156de-f7fa-4dc7-8957-a4568d71c0cc",
+      "filingDate": "2025-12-26T17:05:13-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ETHERTON AND ASSOCIATES, INC.",
+        "id": 307832
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 182583,
+        "generalDescription": "Global aerospace and defense developer, manufacturer and services provider"
+      },
+      "income": 60000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY27 National Defense Authorization Act FY26 National Defense Authorization Act All issues related to acquisition policy FY26 Appropriations Act Issues related to software procurement and acquisition policy"
+        },
+        {
+          "issueCode": "GOV",
+          "issueDescription": "Government Issues",
+          "description": "FY26 National Defense Authorization Act Continuing Resolution for FY2026 Appropriations All issues relating to acquisition and bid protests Issues relating to industrial base"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "FY26 Intelligence Authorization Act FY26 National Defense Authorization Act Issues related to security clearance"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/28d156de-f7fa-4dc7-8957-a4568d71c0cc/print/"
+    },
+    {
+      "filingId": "e333dcf4-3b13-4c36-a8c7-83c99430b0c3",
+      "filingDate": "2025-10-20T19:01:01-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "LGL ADVISORS LLC",
+        "id": 401106585
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 66133,
+        "generalDescription": "Defense and aerospace technology company."
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Provide strategic counsel and advocacy on issues relating to general defense policy and defense acquisition."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/e333dcf4-3b13-4c36-a8c7-83c99430b0c3/print/"
+    },
+    {
+      "filingId": "664f66c4-deb8-4da6-ab0b-7dbdf4f5d3b7",
+      "filingDate": "2025-10-20T18:47:18-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "CAPITOL COUNSEL LLC",
+        "id": 313715
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 184498,
+        "generalDescription": "Defense contractor"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Legislative issues related to defense article sustainment. FY26 National Defense Authorization Act and Defense Appropriations, and FY26 Commerce, Justice, Science, and Related Agencies Appropriations"
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Issues related to tax reform, and general tax issues, including R&D tax amortization. H.R. 1990 - American Innovation and R&D Competitiveness Act."
+        },
+        {
+          "issueCode": "DIS",
+          "issueDescription": "Disaster Planning/Emergencies",
+          "description": "Issues regarding carriage of helicopters related to firefighting missions. Advocacy related to wildfire technology in the FY 2026 Interior, Environment Appropriations bill."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/664f66c4-deb8-4da6-ab0b-7dbdf4f5d3b7/print/"
+    },
+    {
+      "filingId": "aa2b1c94-b08f-4b1c-8ba9-3eb186885782",
+      "filingDate": "2025-10-20T18:20:34-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "THEGROUP DC, LLC",
+        "id": 401103834
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 200226,
+        "generalDescription": "Manufacturer of weapons systems"
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to technology to mitigate wildfires."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/aa2b1c94-b08f-4b1c-8ba9-3eb186885782/print/"
+    },
+    {
+      "filingId": "a3f459e4-dd52-4d4e-a57d-84f3e20e3922",
+      "filingDate": "2025-10-20T16:53:23-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 23031
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 129850,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 4140000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "HR 1 - One Big Beautiful Bill Act including issues related to research and development amortization, foreign derived intangible income, spectrum, corporate alternative minimum tax"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "S 2572/HR 4016 - Department of Defense Appropriations Act, 2026 including issues related to tactical aircraft, hypersonic weapons programs, procurement, Research Development Test Evaluation (RDTE); HR 1 - One Big Beautiful Bill Act including issues related to procurement, RDTE"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "S 2296/HR 3838 - Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026 including issues related to spectrum governance, acquisition policy, space programs, missile defense, classified programs, strategic programs, tactical aircraft, hypersonic weapons programs, procurement, RDTE, precision munitions, integrated air and missile defense systems, rotary wing aircraft, sensor programs, command control and battle management systems, transport aircraft, radars, procurement, RDTE; S 2572/HR 4016 - Department of Defense Appropriations Act, 2026 including issues related to precision munitions, integrated air and missile defense systems, rotary wing aircraft, sensor programs, command control and battle management systems, tactical aircraft, transport aircraft, space programs, classified programs, strategic programs, radars, sensors, electronic warfare systems, military space, cyber, intelligence programs, spectrum; S 5618 - FoRGED Act including issues related to acquisition policy"
+        },
+        {
+          "issueCode": "AER",
+          "issueDescription": "Aerospace",
+          "description": "S 2354/HR 5342 - Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026 including issues related to space programs, aeronautics; S 933 - NASA Transition Authorization Act of 2025 including issues related to civil space, aeronautics"
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "S (not yet introduced)/HR 4213 - Department of Homeland Security Appropriations Act, 2026 including issues related to rotary wing aircraft programs"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "S 2342/HR 5167 - Intelligence Authorization Act for Fiscal Year 2026 including issues related to classified intelligence programs"
+        },
+        {
+          "issueCode": "NAT",
+          "issueDescription": "Natural Resources",
+          "description": "S 2431 (S. Rpt.119-39)/HR HR 4754 (H. Rpt. 119-215) - Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026 including issues related to wildland fires, wildland fire innovation and technology, environment"
+        },
+        {
+          "issueCode": "TRD",
+          "issueDescription": "Trade (domestic/foreign)",
+          "description": "S 2296 - National Defense Authorization Act for Fiscal Year 2026 including issues related to entry of defense supply chain articles; HR 4216 - Made-in-America Defense Act including issues related to foreign military sales; Congressional notifications - clearance of potential foreign military sales"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/a3f459e4-dd52-4d4e-a57d-84f3e20e3922/print/"
+    },
+    {
+      "filingId": "bd6ca566-a37f-4da6-8a84-9ace328fd66a",
+      "filingDate": "2025-10-20T16:31:39-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "BALLARD SPAHR LLP",
+        "id": 400552654
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 209435,
+        "generalDescription": "defense and aerospace technology company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to the Strategic National Stock Pile; 2023--Defense Program Allocations; FY25 appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/bd6ca566-a37f-4da6-8a84-9ace328fd66a/print/"
+    },
+    {
+      "filingId": "bc71b26f-7519-46f0-9616-7bac4261bc6b",
+      "filingDate": "2025-10-20T16:03:31-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "MICHAEL BEST STRATEGIES LLC",
+        "id": 401103565
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 67402,
+        "generalDescription": "Multinational aerospace, defense, and technology corporation"
+      },
+      "income": 80000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Legislative issues related to defense procurement; S. 2296--National Defense Authorization Act for Fiscal Year 2026; H.R. 4016--Department of Defense Appropriations Act, 2026; H.R. 5342--Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026. Executive Branch budget issues for DOD, NASA. Spectrum as part of H.R. 1 (One Big Beautiful Bill Act)"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/bc71b26f-7519-46f0-9616-7bac4261bc6b/print/"
+    },
+    {
+      "filingId": "cf2ba46b-096c-4a59-be54-a3a578ccad82",
+      "filingDate": "2025-10-20T15:38:59-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "COZEN O'CONNOR PUBLIC STRATEGIES",
+        "id": 400459252
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 60210,
+        "generalDescription": "Defense and aerospace technology company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and procurement, including annual authorization and appropriations bills. FY 2025 Disaster supplemental - hurricane hunter aircraft"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Issues related to defense policy and procurement, including annual authorization and appropriations bills. FY 2025 Disaster supplemental - hurricane hunter aircraft"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/cf2ba46b-096c-4a59-be54-a3a578ccad82/print/"
+    },
+    {
+      "filingId": "ea34745f-67aa-4b1b-b53e-4b71a92fb732",
+      "filingDate": "2025-10-20T14:43:14-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "PUBLIC STRATEGIES WASHINGTON, INC.",
+        "id": 32486
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN",
+        "id": 140639,
+        "generalDescription": null
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "\u25cfF-35 Joint Strike Fighter Program, NDAA \u25cfLC-130, NDAA"
+        },
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "FY26 appropriations"
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Tax treatment of R&D expenses and other corporate provisions"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/ea34745f-67aa-4b1b-b53e-4b71a92fb732/print/"
+    },
+    {
+      "filingId": "7343724b-c782-4eae-84c9-59a36fc2b10a",
+      "filingDate": "2025-10-20T09:44:06-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ETHERTON AND ASSOCIATES, INC.",
+        "id": 307832
+      },
+      "client": {
+        "name": "LOCKHEED MARTIN CORPORATION",
+        "id": 182583,
+        "generalDescription": "Global aerospace and defense developer, manufacturer and services provider"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "FY26 National Defense Authorization Act All issues related to acquisition policy FY26 Appropriations Act Issues related to software procurement and acquisition policy"
+        },
+        {
+          "issueCode": "GOV",
+          "issueDescription": "Government Issues",
+          "description": "FY26 National Defense Authorization Act Continuing Resolution for FY2026 Appropriations All issues relating to acquisition and bid protests Issues relating to industrial base"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "FY26 Intelligence Authorization Act FY26 National Defense Authorization Act Issues related to security clearance"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/7343724b-c782-4eae-84c9-59a36fc2b10a/print/"
+    }
+  ],
+  "cross_references": {
+    "officer_overlap": [],
+    "name_variations": [
+      "LOCKHEED MARTIN CORPORATION",
+      "LOCKHEED MARTIN LOGISTIC SERVICES, INC.",
+      "LOCKHEED MARTIN OPERATIONS SUPPORT, LLC",
+      "LOCKHEED MARTIN SERVICES, LLC",
+      "LOCKHEED MARTIN ASPEN SYSTEMS CORPORATION",
+      "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS, INC.",
+      "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS SERVICES, INC.",
+      "LOCKHEED MARTIN INFORMATION TECHNOLOGY COMMERCIAL CORP.",
+      "LOCKHEED MARTIN INTEGRATED SYSTEMS, INC.",
+      "LOCKHEED MARTIN INTEGRATED SYSTEMS, LLC",
+      "LOCKHEED MARTIN OPERATIONS SUPPORT, INC.",
+      "LOCKHEED MARTIN ASPENMED SERVICES INC.",
+      "LOCKHEED MARTIN COMMERCIAL LAUNCH SERVICES INC.",
+      "LOCKHEED MARTIN COMPASS COMPUTER SERVICES INC.",
+      "LOCKHEED MARTIN FEDERAL HEALTHCARE INC.",
+      "LOCKHEED MARTIN GLOBAL TELECOMMUNICATIONS SERVICES INC.",
+      "LOCKHEED MARTIN INTERNATIONAL SERVICE CORPORATION",
+      "LOCKHEED MARTIN KEYWARE SOLUTIONS LLC",
+      "LOCKHEED MARTIN ASSOCIATION OF COMMUNITY VOLUNTEERS, INC.",
+      "LOCKHEED MARTIN COMMERCIAL LAUNCH SERVICES, INC.",
+      "LOCKHEED MARTIN GYROCAM SYSTEMS LLC",
+      "LOCKHEED MARTIN SIPPICAN, INC.",
+      "LOCKHEED MARTIN ACULIGHT CORPORATION",
+      "LOCKHEED MARTIN EPC, LLC",
+      "LOCKHEED MARTIN GLOBAL, INC.",
+      "LOCKHEED MARTIN OVERSEAS, LLC",
+      "LOCKHEED MARTIN AEROPARTS, INC.",
+      "LOCKHEED MARTIN EMPLOYEE RECREATIONAL ASSOCIATION"
+    ],
+    "total_contract_value": 4956975091.15,
+    "total_lobbying_spend": 925304,
+    "states_with_registrations": [
+      "AK",
+      "CT",
+      "DC",
+      "FL",
+      "IA",
+      "NY",
+      "OR",
+      "PA"
+    ]
+  },
+  "errors": [
+    "Entity CT:001t000000hJrseAAC: Filed API error 404: {\"error\":{\"code\":\"not_found\",\"message\":\"Entity 'CT:001t000000hJrseAAC' not found.\"}}"
+  ]
+}

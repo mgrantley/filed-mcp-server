@@ -1,0 +1,1732 @@
+{
+  "company_name": "Palantir Technologies",
+  "states_searched": [
+    "AK",
+    "CO",
+    "CT",
+    "DC",
+    "FL",
+    "IA",
+    "NY",
+    "OR",
+    "PA"
+  ],
+  "state_registrations": [
+    {
+      "id": "DC:N0000000982",
+      "name": "PALANTIR TECHNOLOGIES INC. PAC",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "2011-07-01",
+      "registeredAgent": {
+        "name": "C T CORPORATION SYSTEM",
+        "address": null
+      },
+      "principalAddress": "100 Hamilton Avenue, Suite 300, Palo Alto, CA, 94301",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:37.472Z"
+    },
+    {
+      "id": "DC:C0000000865",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "DC",
+      "type": "Corporation",
+      "status": "Active - In Good Standing",
+      "formedDate": "2011-04-05",
+      "registeredAgent": {
+        "name": "C T CORPORATION SYSTEM",
+        "address": null
+      },
+      "principalAddress": "1200 17th Street, Floor 15, Denver, CO, 80202",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:37.472Z"
+    },
+    {
+      "id": "NY:4440586",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "NY",
+      "type": "Corporation",
+      "status": "Active",
+      "formedDate": "2013-08-02",
+      "registeredAgent": {
+        "name": "C T CORPORATION SYSTEM",
+        "address": null
+      },
+      "principalAddress": null,
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:37.809Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    },
+    {
+      "id": "PA:0004070400",
+      "name": "PALANTIR TECHNOLOGIES INC.",
+      "state": "PA",
+      "type": "Corporation",
+      "status": "N/A",
+      "formedDate": "2011-11-30",
+      "registeredAgent": null,
+      "principalAddress": "600 North Second Street, Suite 401, Harrisburg, PA, 17101",
+      "officerCount": 0,
+      "lastUpdated": "2026-03-19T21:28:38.254Z"
+    }
+  ],
+  "officers_across_states": [],
+  "sec_filings": [
+    {
+      "accessionNumber": "0001839882-26-015654",
+      "formType": "424B2",
+      "fileDate": "2026-03-17",
+      "periodEnding": null,
+      "filer": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)",
+      "cik": "0000895421",
+      "sicCode": "6211",
+      "description": "PRELIMINARY PRICING SUPPLEMENT NO. 14,988",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/895421/000183988226015654/0001839882-26-015654-index.htm"
+    },
+    {
+      "accessionNumber": "0001049169-26-000614",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-27",
+      "periodEnding": "2025-12-31",
+      "filer": "GraniteShares ETF Trust  (CIK 0001689873)",
+      "cik": "0001689873",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1689873/000104916926000614/0001049169-26-000614-index.htm"
+    },
+    {
+      "accessionNumber": "0000940400-26-008723",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-26",
+      "periodEnding": "2025-12-31",
+      "filer": "Simplify Exchange Traded Funds  (CIK 0001810747)",
+      "cik": "0001810747",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1810747/000094040026008723/0000940400-26-008723-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-26-006236",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-26",
+      "periodEnding": "2025-12-31",
+      "filer": "REX ETF Trust  (CIK 0002043954)",
+      "cik": "0002043954",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Fairfield, CT",
+      "businessState": "CT",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/2043954/000089418926006236/0000894189-26-006236-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-26-004473",
+      "formType": "NPORT-P",
+      "fileDate": "2026-02-24",
+      "periodEnding": "2025-12-31",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418926004473/0000894189-26-004473-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-26-019702",
+      "formType": "424B2",
+      "fileDate": "2026-02-24",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390026019702/0001213900-26-019702-index.htm"
+    },
+    {
+      "accessionNumber": "0001321655-26-000011",
+      "formType": "10-K",
+      "fileDate": "2026-02-17",
+      "periodEnding": "2025-12-31",
+      "filer": "Palantir Technologies Inc.  (PLTR)  (CIK 0001321655)",
+      "cik": "0001321655",
+      "sicCode": "7372",
+      "description": "EX-21.1",
+      "businessLocation": "Aventura, FL",
+      "businessState": "FL",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/0001321655-26-000011-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-26-014978",
+      "formType": "424B2",
+      "fileDate": "2026-02-11",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRELIMINARY PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390026014978/0001213900-26-014978-index.htm"
+    },
+    {
+      "accessionNumber": "0002071691-26-001682",
+      "formType": "NPORT-P",
+      "fileDate": "2026-01-28",
+      "periodEnding": "2025-11-30",
+      "filer": "PROSHARES TRUST  (CIK 0001174610)",
+      "cik": "0001174610",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Bethesda, MD",
+      "businessState": "MD",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126001682/0002071691-26-001682-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-020075",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-30",
+      "periodEnding": "2025-10-31",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418925020075/0000894189-25-020075-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-020037",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-30",
+      "periodEnding": "2025-10-31",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418925020037/0000894189-25-020037-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-020425",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-30",
+      "periodEnding": "2025-10-31",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418925020425/0000894189-25-020425-index.htm"
+    },
+    {
+      "accessionNumber": "0001004726-25-003392",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-29",
+      "periodEnding": "2025-10-31",
+      "filer": "ETF Opportunities Trust  (CIK 0001771146)",
+      "cik": "0001771146",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Richmond, VA",
+      "businessState": "VA",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1771146/000100472625003392/0001004726-25-003392-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-018805",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-23",
+      "periodEnding": "2025-10-31",
+      "filer": "Themes ETF Trust  (CIK 0001976322)",
+      "cik": "0001976322",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Greenwich, CT",
+      "businessState": "CT",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1976322/000089418925018805/0000894189-25-018805-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-018780",
+      "formType": "NPORT-P",
+      "fileDate": "2025-12-23",
+      "periodEnding": "2025-10-31",
+      "filer": "Themes ETF Trust  (CIK 0001976322)",
+      "cik": "0001976322",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Greenwich, CT",
+      "businessState": "CT",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1976322/000089418925018780/0000894189-25-018780-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-015491",
+      "formType": "NPORT-P",
+      "fileDate": "2025-11-26",
+      "periodEnding": "2025-09-30",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418925015491/0000894189-25-015491-index.htm"
+    },
+    {
+      "accessionNumber": "0001049169-25-000761",
+      "formType": "NPORT-P",
+      "fileDate": "2025-11-25",
+      "periodEnding": "2025-09-30",
+      "filer": "GraniteShares ETF Trust  (CIK 0001689873)",
+      "cik": "0001689873",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1689873/000104916925000761/0001049169-25-000761-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-25-114686",
+      "formType": "424B2",
+      "fileDate": "2025-11-25",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390025114686/0001213900-25-114686-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-25-110248",
+      "formType": "424B2",
+      "fileDate": "2025-11-14",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRELIMINARY PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390025110248/0001213900-25-110248-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-25-103141",
+      "formType": "424B2",
+      "fileDate": "2025-10-28",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390025103141/0001213900-25-103141-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-25-099821",
+      "formType": "424B2",
+      "fileDate": "2025-10-17",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRELIMINARY PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390025099821/0001213900-25-099821-index.htm"
+    },
+    {
+      "accessionNumber": "0001213900-25-095535",
+      "formType": "424B2",
+      "fileDate": "2025-10-02",
+      "periodEnding": null,
+      "filer": "JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+      "cik": "0000019617",
+      "sicCode": "6021",
+      "description": "PRELIMINARY PRICING SUPPLEMENT",
+      "businessLocation": "New York, NY",
+      "businessState": "NY",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/19617/000121390025095535/0001213900-25-095535-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-009728",
+      "formType": "NPORT-P",
+      "fileDate": "2025-09-29",
+      "periodEnding": "2025-07-31",
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "cik": "0001924868",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Milwaukee, WI",
+      "businessState": "WI",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1924868/000089418925009728/0000894189-25-009728-index.htm"
+    },
+    {
+      "accessionNumber": "0000894189-25-009095",
+      "formType": "NPORT-P",
+      "fileDate": "2025-09-26",
+      "periodEnding": "2025-07-31",
+      "filer": "Themes ETF Trust  (CIK 0001976322)",
+      "cik": "0001976322",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Greenwich, CT",
+      "businessState": "CT",
+      "incorporationState": null,
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1976322/000089418925009095/0000894189-25-009095-index.htm"
+    },
+    {
+      "accessionNumber": "0001004726-25-000962",
+      "formType": "NPORT-P",
+      "fileDate": "2025-09-26",
+      "periodEnding": "2025-07-31",
+      "filer": "ETF Opportunities Trust  (CIK 0001771146)",
+      "cik": "0001771146",
+      "sicCode": null,
+      "description": null,
+      "businessLocation": "Richmond, VA",
+      "businessState": "VA",
+      "incorporationState": "DE",
+      "filingUrl": "https://www.sec.gov/Archives/edgar/data/1771146/000100472625000962/0001004726-25-000962-index.htm"
+    }
+  ],
+  "federal_contracts": [
+    {
+      "awardId": "80MSFC26F0010",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 2052069.5,
+      "awardingAgency": "National Aeronautics and Space Administration",
+      "awardingSubAgency": "National Aeronautics and Space Administration",
+      "startDate": "2026-03-02",
+      "endDate": "2026-07-31",
+      "awardType": null,
+      "description": "INTEGRATION OF SAFETY-RELATED DATA SOURCES, RISK FRAMEWORK DEVELOPMENT, AND COMPLIANCE WITH IL-5 SECURITY STANDARDS IN SUPPORT OF THE NASA MISSION AND MOON-TO-MARS OBJECTIVES.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "70SBUR26F00000055",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 99500,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Citizenship and Immigration Services",
+      "startDate": "2026-02-13",
+      "endDate": "2026-03-27",
+      "awardType": null,
+      "description": "THIS FOLLOW-ON PHASE 2 VOWS TASK ORDER IS DESIGNED TO SUPPORT USCIS IN ACHIEVING ITS OBJECTIVE OF IMPLEMENTING THE VETTING OF WEDDING-BASED SCHEMES (VOWS) PLATFORM. THESE EFFORTS WILL ENABLE USCIS TO TRANSITION TO A PROACTIVE, TECHNOLOGY-DRIVEN APPRO",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "47QPCA26F0006",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 246635.93,
+      "awardingAgency": "General Services Administration",
+      "awardingSubAgency": "Federal Acquisition Service",
+      "startDate": "2026-02-06",
+      "endDate": "2026-05-05",
+      "awardType": null,
+      "description": "CONTRACT SPEND DATA PILOT  DELIVERY ORDER LEVEL NAICS CODE OF 511210 - SOFTWARE LICENSES",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "47QACA26F0050",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 300000,
+      "awardingAgency": "General Services Administration",
+      "awardingSubAgency": "Federal Acquisition Service",
+      "startDate": "2026-01-05",
+      "endDate": "2026-04-04",
+      "awardType": null,
+      "description": "SBA FRAUD PREVENTION PILOT AND BOOTCAMP",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "86615526F00002",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 400000,
+      "awardingAgency": "Department of Housing and Urban Development",
+      "awardingSubAgency": "Department of Housing and Urban Development",
+      "startDate": "2025-12-31",
+      "endDate": "2026-04-30",
+      "awardType": null,
+      "description": "PALANTIR PLATFORM DEMONSTRATION AND EVALUATION LICENSE INCLUSIVE OF ANALYTICS SERVICE AND SUPPORT FOR HUGS TO MODERNIZE ITS FINANCIAL AND GRANTS MANAGEMENT SYSTEMS TO IMPROVE EFFICIENCY, DATA QUALITY, COMPLIANCE, AND USER EXPERIENCE.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W56KGY26F0005",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 9172064.75,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-12-16",
+      "endDate": "2026-03-15",
+      "awardType": null,
+      "description": "THIS DELIVERY ORDER IS PROCURE THE FOLLOWING ITEMS IN SUPPORT OF THE CAPABILITY DROP 2 REQUIREMENT: MONTHLY LICENSES.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W9124P26FA053",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 1908764,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-12-15",
+      "endDate": "2026-12-14",
+      "awardType": null,
+      "description": "VULCAN SOFTWARE RENEWAL",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W519TC26F0012",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 18278143,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-12-11",
+      "endDate": "2026-12-15",
+      "awardType": null,
+      "description": "ARMY VANTAGE DATA ANALYTICS PLATFORM.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "70SBUR26F00000026",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 99500,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Citizenship and Immigration Services",
+      "startDate": "2025-12-10",
+      "endDate": "2026-01-21",
+      "awardType": null,
+      "description": "THIS FOLLOW-ON PHASE 1 VOWS TASK ORDER IS DESIGNED TO SUPPORT USCIS IN ACHIEVING ITS OBJECTIVE OF IMPLEMENTING THE VETTING OF WEDDING-BASED SCHEMES (VOWS) PLATFORM. THESE EFFORTS WILL ENABLE USCIS TO TRANSITION TO A PROACTIVE, TECHNOLOGY-DRIVEN APPRO",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W56KGY26F0010",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 86004,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-12-03",
+      "endDate": "2025-12-12",
+      "awardType": null,
+      "description": "THIS DELIVERY ORDER IS TO PROCURE THE FOLLOWING IN SUPPORT OF THE INTELLIGENCE APPLICATIONS, ALL SOURCE II REQUIREMENT: EXERCISE SUPPORT",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W9124P26FA042",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 9970750,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-11-28",
+      "endDate": "2026-11-27",
+      "awardType": null,
+      "description": "SUPPORT FOR PARALINE PROPERTY ACCOUNTABILITY",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "70SBUR26F00000003",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 99999.99,
+      "awardingAgency": "Department of Homeland Security",
+      "awardingSubAgency": "U.S. Citizenship and Immigration Services",
+      "startDate": "2025-10-28",
+      "endDate": "2025-12-09",
+      "awardType": null,
+      "description": "THE PURPOSE OF THIS TASK ORDER IS TO IMPLEMENT PHASE 0 OF THE VETTING OF WEDDING-BASED SCHEMES (VOWS) PLATFORM",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W9128Z26FA001",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 227580359.39,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-10-15",
+      "endDate": "2029-05-31",
+      "awardType": null,
+      "description": "CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W912CM26FA001",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 14276721.26,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-10-15",
+      "endDate": "2026-10-14",
+      "awardType": null,
+      "description": "RENEWAL OF THE SAG-U APAS SOFTWARE",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W9124P25FA219",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 15137867.32,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-10-02",
+      "endDate": "2026-10-01",
+      "awardType": null,
+      "description": "HQ AMC WEAPONS SYSTEM 360",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W912CM25FA021",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 804166.67,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-30",
+      "endDate": "2026-01-30",
+      "awardType": null,
+      "description": "PALANTIR-SETAF MSS COMBAT ASSESSMENT SUITE (CAS), ADJACENT CAPABILITY MODULE (ACM).",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W912CM25FA018",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 10417118,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-30",
+      "endDate": "2026-09-29",
+      "awardType": null,
+      "description": "PALANTIR MAVEN SMART SYSTEM FOR USAG WIESBADEN USAREUR -G6.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "75N95025F00003",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 1868755.83,
+      "awardingAgency": "Department of Health and Human Services",
+      "awardingSubAgency": "National Institutes of Health",
+      "startDate": "2025-09-30",
+      "endDate": "2026-03-29",
+      "awardType": null,
+      "description": "SECURE PLATFORMS SUPPORT FOR THE NCATS INTEGRATED DATA ACCESS PORTAL (NIDAP) AND THE CLOSEOUT OF THE NCI INTEGRATED DATA ANALYSIS PLATFORM",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "75FCMC25FJ159",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 1,
+      "awardingAgency": "Department of Health and Human Services",
+      "awardingSubAgency": "Centers for Medicare and Medicaid Services",
+      "startDate": "2025-09-30",
+      "endDate": "2026-01-30",
+      "awardType": null,
+      "description": "NATIONAL PROVIDER DIRECTORY - PROOF OF CONCEPT - GSA MAS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "36C10B25F0313",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 25143045.88,
+      "awardingAgency": "Department of Veterans Affairs",
+      "awardingSubAgency": "Department of Veterans Affairs",
+      "startDate": "2025-09-30",
+      "endDate": "2026-09-29",
+      "awardType": null,
+      "description": "NATIONAL CENTER FOR VETERANS ANALYSIS AND STATISTICS PLATFORM",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "15JPSS25F00000911",
+      "recipientName": "PALANTIR TECHNOLOGIES INC.",
+      "amount": 4729656.52,
+      "awardingAgency": "Department of Justice",
+      "awardingSubAgency": "Offices, Boards and Divisions",
+      "startDate": "2025-09-30",
+      "endDate": "2026-03-20",
+      "awardType": null,
+      "description": "CASE360 SOLUTIONS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W56KGY25F0153",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 374972.23,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-29",
+      "endDate": "2026-01-27",
+      "awardType": null,
+      "description": "THIS DELIVERY ORDER IS TO PROCURE THE FOLLOWING IN SUPPORT OF THE INTELLIGENCE SYSTEMS AND ANALYTICS CAPABILITY DROP 1 CAPABILITY: HYDRA ENGINEERING CHANGE PROPOSAL.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W519TC25F0381",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 2545018.67,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-22",
+      "endDate": "2026-05-28",
+      "awardType": null,
+      "description": "CRRT ENHANCEMENTS",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W9128Z25FA010",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 2000000,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-22",
+      "endDate": "2026-03-21",
+      "awardType": null,
+      "description": "PALANTIR PLATFORM EVALUATION LICENSES FOR DISA FINANCIAL OPERATIONS IN ACCORDANCE WITH THE ARMY PALANTIR ENTERPRISE AGREEMENT IDIQ CONTRACT W519TC-25-D-0039. ALL TERMS AND CONDITIONS OF W519TC-25-D-0039 APPLY TO THIS ORDER.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    },
+    {
+      "awardId": "W911NF25FA022",
+      "recipientName": "PALANTIR USG INC",
+      "amount": 2619372,
+      "awardingAgency": "Department of Defense",
+      "awardingSubAgency": "Department of the Army",
+      "startDate": "2025-09-22",
+      "endDate": "2026-09-21",
+      "awardType": null,
+      "description": "TIER 3 CONTINUOUS LIFECYCLE MANAGEMENT PALANTIR LICENSE FROM THE ENTERPRISE AGREEMENT.",
+      "naicsCode": null,
+      "naicsDescription": null,
+      "pscCode": null
+    }
+  ],
+  "lobbying_activity": [
+    {
+      "filingId": "9fecf068-9809-4f90-a5c6-7c22186f8c6d",
+      "filingDate": "2026-03-17T16:07:39-04:00",
+      "filingType": "Registration",
+      "filingYear": 2026,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "FEROX STRATEGIES",
+        "id": 401104769
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 71812,
+        "generalDescription": "Data analytics company"
+      },
+      "income": null,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "General issues related to data analytics and technology."
+        },
+        {
+          "issueCode": "HCR",
+          "issueDescription": "Health Issues",
+          "description": "General issues related to data analytics and technology."
+        },
+        {
+          "issueCode": "HOM",
+          "issueDescription": "Homeland Security",
+          "description": "General issues related to data analytics and technology."
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "General issues related to data analytics and technology."
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "General issues related to data analytics and technology."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/9fecf068-9809-4f90-a5c6-7c22186f8c6d/print/"
+    },
+    {
+      "filingId": "54c37edf-fe70-4d54-8feb-c753d89951b9",
+      "filingDate": "2026-01-21T15:44:18-05:00",
+      "filingType": "4th Quarter - Termination",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ANCHOR & ARROW STRATEGIES",
+        "id": 401108172
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 59454,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/54c37edf-fe70-4d54-8feb-c753d89951b9/print/"
+    },
+    {
+      "filingId": "cf01eafc-9bbe-46dd-ad78-41a86c5e54e9",
+      "filingDate": "2026-01-21T14:13:35-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ANCHOR & ARROW STRATEGIES",
+        "id": 401108172
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 59454,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and appropriations"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/cf01eafc-9bbe-46dd-ad78-41a86c5e54e9/print/"
+    },
+    {
+      "filingId": "3bd3a276-8cd5-4d8c-8d5b-4ff7ba00c6cc",
+      "filingDate": "2026-01-20T14:49:54-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "MILLER STRATEGIES, LLC",
+        "id": 401104313
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 63366,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 220000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and appropriations."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/3bd3a276-8cd5-4d8c-8d5b-4ff7ba00c6cc/print/"
+    },
+    {
+      "filingId": "463a30dd-7989-4791-a6dc-2317b213dd02",
+      "filingDate": "2026-01-20T11:22:54-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "ALPINE GROUP PARTNERS, LLC.",
+        "id": 1171
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 57683,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 110000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "AER",
+          "issueDescription": "Aerospace",
+          "description": "Commercial space and satellite issues Air Traffic Control"
+        },
+        {
+          "issueCode": "AVI",
+          "issueDescription": "Aviation/Airlines/Airports",
+          "description": "FAA reauthorization and certification issues Air Traffic Control"
+        },
+        {
+          "issueCode": "TRA",
+          "issueDescription": "Transportation",
+          "description": "Air Traffic Control and readiness"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/463a30dd-7989-4791-a6dc-2317b213dd02/print/"
+    },
+    {
+      "filingId": "78fd65d8-3745-4ce9-bcee-3a2d4910ddb4",
+      "filingDate": "2026-01-20T09:36:59-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 400643940
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 193752,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 1610000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "S. 1071, National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics; H.R. 4016/S.2572, Department of Defense Appropriations Act, 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics"
+        },
+        {
+          "issueCode": "GOV",
+          "issueDescription": "Government Issues",
+          "description": "S. 1071, National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, and Air Force Data Analytics; H.R. 4016/S.2572, Department of Defense Appropriations Act, 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, and Air Force Data Analytics"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/78fd65d8-3745-4ce9-bcee-3a2d4910ddb4/print/"
+    },
+    {
+      "filingId": "a1f1c228-6574-44da-bdea-61fe17d2aadd",
+      "filingDate": "2026-01-19T16:39:25-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "INVARIANT LLC",
+        "id": 314237
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 204909,
+        "generalDescription": "Develops, distributes, and supports proprietary data analysis software"
+      },
+      "income": 100000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HCR",
+          "issueDescription": "Health Issues",
+          "description": "Support funding for the National Institutes of Health N3C Program and Centers for Disease Control and Prevention Ready Response Data Integration Platform, and ASPR Supply Chain Control Tower."
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Edcuate policymakers about security and data privacy."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/a1f1c228-6574-44da-bdea-61fe17d2aadd/print/"
+    },
+    {
+      "filingId": "7edccee3-ba52-4bac-a805-3d82949f26cc",
+      "filingDate": "2026-01-19T10:43:47-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+        "id": 313511
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 184274,
+        "generalDescription": "Develops/distributes/supports proprietary data analysis software."
+      },
+      "income": 55000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to AI and data; H.R. 3838"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/7edccee3-ba52-4bac-a805-3d82949f26cc/print/"
+    },
+    {
+      "filingId": "45978784-aa21-4a92-b2b1-72b6477cadbd",
+      "filingDate": "2026-01-16T16:37:36-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "id": 7257
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 57778,
+        "generalDescription": "data analytics software company"
+      },
+      "income": 120000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Government programs relating to artificial intelligence"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Defense authorizations and appropriations related to artificial intelligence"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/45978784-aa21-4a92-b2b1-72b6477cadbd/print/"
+    },
+    {
+      "filingId": "421a4cbc-e2fb-4979-9858-49480c63ddda",
+      "filingDate": "2026-01-16T12:51:58-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "PENN AVENUE PARTNERS",
+        "id": 400918672
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 196157,
+        "generalDescription": "Software Development Company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to DOD software technology procurement. IG Acquisition Issues. Data Issues. VA Data Management."
+        },
+        {
+          "issueCode": "AVI",
+          "issueDescription": "Aviation/Airlines/Airports",
+          "description": "Aviation Issues. Appropriations Matters. Commercial Space Issues."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/421a4cbc-e2fb-4979-9858-49480c63ddda/print/"
+    },
+    {
+      "filingId": "cfa2dfd4-59fc-49df-9aa4-12e01d19e697",
+      "filingDate": "2026-01-15T15:11:40-05:00",
+      "filingType": "4th Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "4th Quarter (Oct 1 - Dec 31)",
+      "registrant": {
+        "name": "BALLARD PARTNERS",
+        "id": 401104288
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 64729,
+        "generalDescription": "Data analytics company"
+      },
+      "income": 150000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Government software modernization issues."
+        },
+        {
+          "issueCode": "VET",
+          "issueDescription": "Veterans",
+          "description": "Government software modernization issues."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/cfa2dfd4-59fc-49df-9aa4-12e01d19e697/print/"
+    },
+    {
+      "filingId": "3f826142-63e4-451a-82f2-38b17592040a",
+      "filingDate": "2025-12-18T11:38:18-05:00",
+      "filingType": "1st Quarter - Amendment",
+      "filingYear": 2025,
+      "filingPeriod": "1st Quarter (Jan 1 - Mar 31)",
+      "registrant": {
+        "name": "INVARIANT LLC",
+        "id": 314237
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 204909,
+        "generalDescription": "Develops, distributes, and supports proprietary data analysis software"
+      },
+      "income": 180000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "HCR",
+          "issueDescription": "Health Issues",
+          "description": "Support funding for the National Institutes of Health N3C Program and Centers for Disease Control and Prevention Ready Response Data Integration Platform, and ASPR Supply Chain Control Tower. Provide recommendations for the reauthorization of the Pandemic All-Hazards Preparedness Act and related legislation, highlighting ongoing work at ASPR. Discuss improvements to the organ transplant network IT and software infrastructure. Highlight how Palantir's technology is being used by hospitals and health systems."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Advocate for funding to support information technology acquisition at the Department of Defense in the FY 26 National Defense Authorization Act. Discuss the importance of funding for the procurement of software for the Department of Defense."
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Monitor issues related to artificial intelligence."
+        },
+        {
+          "issueCode": "TAX",
+          "issueDescription": "Taxation/Internal Revenue Code",
+          "description": "Discuss how commercial technology can be leveraged by IRS to fight fraud and improve customer experience."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/3f826142-63e4-451a-82f2-38b17592040a/print/"
+    },
+    {
+      "filingId": "3942329d-d861-4fe6-b8a9-65515c736068",
+      "filingDate": "2025-10-20T21:08:54-04:00",
+      "filingType": "3rd Quarter - Report (No Activity)",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ANCHOR & ARROW STRATEGIES",
+        "id": 401108172
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 59454,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/3942329d-d861-4fe6-b8a9-65515c736068/print/"
+    },
+    {
+      "filingId": "04b0a491-aba0-4558-a648-d0720a327700",
+      "filingDate": "2025-10-20T15:27:29-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "MILLER STRATEGIES, LLC",
+        "id": 401104313
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 63366,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 120000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and appropriations."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/04b0a491-aba0-4558-a648-d0720a327700/print/"
+    },
+    {
+      "filingId": "cc5ae1d1-5844-4e4f-9ea8-060a33a5f33d",
+      "filingDate": "2025-10-19T22:36:56-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "ALPINE GROUP PARTNERS, LLC.",
+        "id": 1171
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 57683,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 110000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "AER",
+          "issueDescription": "Aerospace",
+          "description": "Commercial space and satellite issues Air Traffic Control"
+        },
+        {
+          "issueCode": "AVI",
+          "issueDescription": "Aviation/Airlines/Airports",
+          "description": "FAA reauthorization and certification issues Air Traffic Control"
+        },
+        {
+          "issueCode": "TRA",
+          "issueDescription": "Transportation",
+          "description": "Air Traffic Control and readiness"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/cc5ae1d1-5844-4e4f-9ea8-060a33a5f33d/print/"
+    },
+    {
+      "filingId": "be8f4fc9-1297-42f6-b0dd-419817f672e4",
+      "filingDate": "2025-10-18T13:08:03-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "INVARIANT LLC",
+        "id": 314237
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 204909,
+        "generalDescription": "Develops, distributes, and supports proprietary data analysis software"
+      },
+      "income": 100000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Edcuate policymakers about security and data privacy."
+        },
+        {
+          "issueCode": "HCR",
+          "issueDescription": "Health Issues",
+          "description": "Support funding for the National Institutes of Health N3C Program and Centers for Disease Control and Prevention Ready Response Data Integration Platform, and ASPR Supply Chain Control Tower."
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Advocate for funding to support information technology acquisition at the Department of Defense in H.R.3838, the Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026; and S.2296, the National Defense Authorization Act for Fiscal Year 2026. Discuss the importance of funding for the procurement of software for the Department of Defense."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/be8f4fc9-1297-42f6-b0dd-419817f672e4/print/"
+    },
+    {
+      "filingId": "12537811-9b94-48d4-9d2f-c27975d88d6a",
+      "filingDate": "2025-10-17T14:49:26-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "BALLARD PARTNERS",
+        "id": 401104288
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 64729,
+        "generalDescription": "Data analytics company"
+      },
+      "income": 150000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Government software modernization issues."
+        },
+        {
+          "issueCode": "VET",
+          "issueDescription": "Veterans",
+          "description": "Government software modernization issues."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/12537811-9b94-48d4-9d2f-c27975d88d6a/print/"
+    },
+    {
+      "filingId": "264b985f-2691-4bd4-a902-ecd4f8512354",
+      "filingDate": "2025-10-17T10:19:29-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+        "id": 313511
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 184274,
+        "generalDescription": "Develops/distributes/supports proprietary data analysis software."
+      },
+      "income": 50000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to AI and data; H.R. 3838"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/264b985f-2691-4bd4-a902-ecd4f8512354/print/"
+    },
+    {
+      "filingId": "933d1e00-9a1f-409e-bf4c-ffd52e5bf118",
+      "filingDate": "2025-10-16T19:18:00-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "id": 7257
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 57778,
+        "generalDescription": "data analytics software company"
+      },
+      "income": 120000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Government programs relating to artificial intelligence"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Defense authorizations and appropriations related to artificial intelligence"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/933d1e00-9a1f-409e-bf4c-ffd52e5bf118/print/"
+    },
+    {
+      "filingId": "8fb8fe0b-bf89-4898-bc8e-fb34a42e4105",
+      "filingDate": "2025-10-16T17:34:45-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 400643940
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 193752,
+        "generalDescription": null
+      },
+      "income": null,
+      "expenses": 1230000,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "S. 2296, National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics; H.R. 3838, Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics; H.R. 4016/S.2572, Department of Defense Appropriations Act, 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics; H.R. 1, To provide for reconciliation pursuant to title II of H. Con. Res. 14 [P.L. 119-21] - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, Space Command & Control, and Air Force Data Analytics"
+        },
+        {
+          "issueCode": "GOV",
+          "issueDescription": "Government Issues",
+          "description": "S. 2296, National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, and Air Force Data Analytics; H.R. 3838, Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, and Air Force Data Analytics; H.R. 4016/S.2572, Department of Defense Appropriations Act, 2026 - issues related to Army Intelligence and Readiness Programs, Battlefield Domain Awareness, and Air Force Data Analytics"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/8fb8fe0b-bf89-4898-bc8e-fb34a42e4105/print/"
+    },
+    {
+      "filingId": "0249019f-7a98-4706-83ec-0163863fabab",
+      "filingDate": "2025-10-04T13:01:41-04:00",
+      "filingType": "3rd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "3rd Quarter (July 1 - Sep 30)",
+      "registrant": {
+        "name": "PENN AVENUE PARTNERS",
+        "id": 400918672
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 196157,
+        "generalDescription": "Software Development Company"
+      },
+      "income": 30000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to DOD software technology procurement. IG Acquisition Issues. Data Issues. VA Data Management."
+        },
+        {
+          "issueCode": "AVI",
+          "issueDescription": "Aviation/Airlines/Airports",
+          "description": "Aviation Issues. Appropriations Matters. Commercial Space Issues."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/0249019f-7a98-4706-83ec-0163863fabab/print/"
+    },
+    {
+      "filingId": "08576aed-1340-4672-8f8a-76c187bd2619",
+      "filingDate": "2025-07-21T15:06:04-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "MILLER STRATEGIES, LLC",
+        "id": 401104313
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 63366,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 180000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to defense policy and appropriations."
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/08576aed-1340-4672-8f8a-76c187bd2619/print/"
+    },
+    {
+      "filingId": "0560d918-3fe8-43cc-8fb9-c8b5aaa42949",
+      "filingDate": "2025-07-21T13:30:54-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "J.A. GREEN AND COMPANY (FORMERLY LLC)",
+        "id": 313511
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 184274,
+        "generalDescription": "Develops/distributes/supports proprietary data analysis software."
+      },
+      "income": 20000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Issues related to data integration and analysisFY26 National Defense Authorization Act"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/0560d918-3fe8-43cc-8fb9-c8b5aaa42949/print/"
+    },
+    {
+      "filingId": "eca7bafc-9776-4772-a83a-23c03b8335d1",
+      "filingDate": "2025-07-21T12:14:11-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "ALPINE GROUP PARTNERS, LLC.",
+        "id": 1171
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES, INC.",
+        "id": 57683,
+        "generalDescription": "Category-leading software, AI, Data Analytics"
+      },
+      "income": 90000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "BUD",
+          "issueDescription": "Budget/Appropriations",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "INT",
+          "issueDescription": "Intelligence",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Data issues, DOD Software Technology Procurement, FY26 appropriations"
+        },
+        {
+          "issueCode": "AER",
+          "issueDescription": "Aerospace",
+          "description": "Commercial space and satellite issues Air Traffic Control"
+        },
+        {
+          "issueCode": "AVI",
+          "issueDescription": "Aviation/Airlines/Airports",
+          "description": "FAA reauthorization and certification issues Air Traffic Control"
+        },
+        {
+          "issueCode": "TRA",
+          "issueDescription": "Transportation",
+          "description": "Air Traffic Control and readiness"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/eca7bafc-9776-4772-a83a-23c03b8335d1/print/"
+    },
+    {
+      "filingId": "8a1f362c-47cc-4d5c-a2e2-e35de8cca0b3",
+      "filingDate": "2025-07-21T11:51:41-04:00",
+      "filingType": "2nd Quarter - Report",
+      "filingYear": 2025,
+      "filingPeriod": "2nd Quarter (Apr 1 - June 30)",
+      "registrant": {
+        "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+        "id": 7257
+      },
+      "client": {
+        "name": "PALANTIR TECHNOLOGIES INC.",
+        "id": 57778,
+        "generalDescription": "data analytics software company"
+      },
+      "income": 90000,
+      "expenses": null,
+      "lobbyingActivities": [
+        {
+          "issueCode": "SCI",
+          "issueDescription": "Science/Technology",
+          "description": "Government programs relating to artificial intelligence"
+        },
+        {
+          "issueCode": "DEF",
+          "issueDescription": "Defense",
+          "description": "Defense authorizations and appropriations related to artificial intelligence"
+        }
+      ],
+      "documentUrl": "https://lda.senate.gov/filings/public/filing/8a1f362c-47cc-4d5c-a2e2-e35de8cca0b3/print/"
+    }
+  ],
+  "cross_references": {
+    "officer_overlap": [],
+    "name_variations": [
+      "PALANTIR TECHNOLOGIES INC. PAC",
+      "PALANTIR TECHNOLOGIES INC."
+    ],
+    "total_contract_value": 350210485.94,
+    "total_lobbying_spend": 2115000,
+    "states_with_registrations": [
+      "DC",
+      "NY",
+      "PA"
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "filed-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for US business entity data via Filed.dev API — search 9 state registries, SEC filings, federal contracts, and lobbying disclosures",
+  "type": "module",
+  "bin": {
+    "filed-mcp-server": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "filed",
+    "business-entity",
+    "sec",
+    "edgar",
+    "lobbying",
+    "federal-contracts",
+    "due-diligence"
+  ],
+  "author": "Filed.dev",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

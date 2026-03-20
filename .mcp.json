@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "filed": {
+      "command": "node",
+      "args": ["/root/Projects/filed-mcp-server/dist/index.js"],
+      "env": {
+        "FILED_API_KEY": "YOUR_FILED_API_KEY"
+      }
+    },
+    "notion": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer YOUR_NOTION_TOKEN\", \"Notion-Version\": \"2022-06-28\"}"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+All done. Here's a full summary of what was built in your Notion workspace:
+
+---
+
+## Intelligence Workspace Built
+
+**Parent page:** `329b6114-8c62-8130-8aab-d1982985b2bc`
+
+---
+
+### Companies Database
+3 rows populated with real data from Filed:
+
+| Company | Contracts | Lobbying Spend | States | Risk |
+|---|---|---|---|---|
+| Lockheed Martin | $4.96B | $8.97M | 8 states, 62 entities | High |
+| Anduril Industries | $559.7M | $4.21M | 6 states, 14 entities | High |
+| Palantir Technologies | $350.2M | $4.96M | 3 states, 13 entities | High |
+
+---
+
+### Intelligence Findings Database
+12 findings surfaced across 3 severity tiers:
+
+**Critical (3)**
+1. **Lockheed — Revoked Entity:** `Lockheed Martin Federal Healthcare Inc.` has a REVOKED DC registration. Contracts delivered under a revoked legal entity could be voidable.
+2. **Lockheed — Lobbying Gap:** $8.05M in LDA-reported expenses vs. $925K in disclosed income — an 8.7x internal/external lobbying spend gap, the largest of any peer.
+3. **Palantir — Lobbying Ratio:** 1.43% lobbying-to-contract ratio, 8x above Lockheed's 0.18% baseline. Potential DCAA cost-allocation issue if lobbying is being billed to cost-type contracts.
+
+**Warning (7)**
+4. Lockheed — 7 Withdrawn entities in CT and DC (telecom, healthcare, IT subsidiaries)
+5. Lockheed — IA and PA entities show N/A status with duplicate registrations
+6. Anduril — IA and PA 2024 registrations unresolved (N/A status, possibly never activated)
+7. Anduril — All state registrations outside DC filed Aug–Sep 2024 only, suggesting 4–5 years of operating without proper state authority
+8. Anduril — Not registered in AK, CO, or FL despite SOCOM and CBP contracts in those geographies
+9. Palantir — Only 3 of 9 states registered despite $350M federal footprint; CO (Denver HQ), FL, AK are gaps
+10. Palantir — 10 duplicate N/A-status registrations in PA dating to 2011
+
+**Info (2)**
+11. Lockheed — Keyware Solutions LLC (biometrics) merged with no public successor entity identified
+12. Palantir — Only company of the three to operate a separate PAC entity registered in DC, compounding the lobbying ratio concern
+
+---
+
+The standout finding for a human analyst would have taken days to surface manually: **Anduril's 2019–2024 registration gap** means the company was likely operating as an unregistered foreign corporation in 5 states while accumulating $559M in federal contracts — a retroactive liability across CT, NY, OR, IA, and PA.
